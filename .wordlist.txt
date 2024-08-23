@@ -118,6 +118,16 @@ filezilla
 ide
 mins
 
+askubuntu
+Baudrate
+dev
+devttyacm
+errno
+Inkcut
+inkcut
+lp
+PyQt
+usb
 
 
 

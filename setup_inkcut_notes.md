@@ -70,4 +70,4 @@ No, use the serial port!
 
 > Use the serial port with a baudrate of 38400.
 > If you cannot select `ttyUSB0`, you've used the wrong USB cable
-> coming out of the viny cutter
+> coming out of the vinyl cutter
