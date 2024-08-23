@@ -78,6 +78,8 @@ Go to the 'Configure device | Connection':
 
 ## 4. Transfer vinyl to T-shirt
 
+[No idea yet]
+
 ## Files used by continuous integration scripts
 
 Filename                              |Descriptions
