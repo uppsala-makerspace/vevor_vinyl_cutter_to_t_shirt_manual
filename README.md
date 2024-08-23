@@ -11,7 +11,7 @@ Produre:
 - 1. Instal Inkcut
 - 2. Setup Inkcut
 - 3. Use Inkcut
-- 4. Tranfer vinyl to T-shirt
+- 4. Transfer vinyl to T-shirt
 
 ## 1. Install Inkcut
 
@@ -76,7 +76,7 @@ Go to the 'Configure device | Connection':
 
 > Inkcut in action
 
-## 4. Tranfer vinyl to T-shirt
+## 4. Transfer vinyl to T-shirt
 
 
 ## Files used by continuous integration scripts
