@@ -130,6 +130,9 @@ PyQt
 usb
 Vevor
 codelv
+baudrate
+vevor
+
 
 
 
