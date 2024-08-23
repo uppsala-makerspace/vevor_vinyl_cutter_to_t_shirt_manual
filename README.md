@@ -49,7 +49,7 @@ Now you can start `inkcut` with:
 
 Add yourself to the `dialout` group:
 
-```
+```bash
 sudo usermod -a -G dialout "$USER"
 ```
 
@@ -64,7 +64,7 @@ Go to the 'Configure device | Connection':
   coming out of the vinyl cutter :-)
 - Baudrate: 38400
 
-![](set_baudrate_to_38400.png)
+![Use the serial port with a baudrate of 38400](set_baudrate_to_38400.png)
 
 > Use the serial port with a baudrate of 38400.
 > If you cannot select `ttyUSB0`, you've used the wrong USB cable
@@ -78,7 +78,6 @@ Go to the 'Configure device | Connection':
 
 ## 4. Transfer vinyl to T-shirt
 
-
 ## Files used by continuous integration scripts
 
 Filename                              |Descriptions
@@ -88,4 +87,3 @@ Filename                              |Descriptions
 [.wordlist.txt](.wordlist.txt)        |Whitelisted words for the spell checker, use `pyspelling -c .spellcheck.yml` to do spellcheck locally
 [.markdownlint.jsonc](.markdownlint.jsonc)|Configuration of the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
 [.markdownlintignore](.markdownlintignore)|Files ignored by the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
-

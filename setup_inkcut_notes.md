@@ -8,7 +8,8 @@ Starting fails: Inkcut cannot open the port
 sudo usermod -a -G dialout "$USER"
 ```
 
-Error at <https://inkcut.org/t/could-not-open-port-devttyacm0-errno-13-permission-denied-devttyacm0/124/> :
+Error at
+<https://inkcut.org/t/could-not-open-port-devttyacm0-errno-13-permission-denied-devttyacm0/124/>:
 
 > Resolved
 > after running
@@ -16,7 +17,6 @@ Error at <https://inkcut.org/t/could-not-open-port-devttyacm0-errno-13-permissio
 > Logging out, and in, didn't do it, though a cold boot did.
 
 Then next error:
-
 
 ```bash
 2024-08-22 21:11:59,948 | CRITICAL | inkcut | Traceback (most recent call last):
@@ -52,11 +52,11 @@ serial.serialutil.SerialException: Could not configure port: (5, 'Input/output e
 
 Use a parallel port instead, from the blue USB:
 
-![](inkcut_use_parallel_port.png)
+![Try to use a parallel port](inkcut_use_parallel_port.png)
 
 Permission denied on that parallel port:
 
-![](inkcut_permission_denied_parallel_port.png)
+![Permission denied on that parallel port](inkcut_permission_denied_parallel_port.png)
 
 I guess, from <https://askubuntu.com/questions/73687/what-is-the-correct-way-to-change-permissions-of-the-printer-in-dev-usb-lp0#73694> :
 
@@ -66,7 +66,7 @@ sudo usermod -a -G lpadmin "$USER"
 
 No, use the serial port!
 
-![](set_baudrate_to_38400.png)
+![Use the serial port with a baudrate of 38400](set_baudrate_to_38400.png)
 
 > Use the serial port with a baudrate of 38400.
 > If you cannot select `ttyUSB0`, you've used the wrong USB cable

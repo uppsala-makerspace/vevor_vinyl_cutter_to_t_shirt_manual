@@ -14,7 +14,7 @@
     // Number of characters for headings, CHANGED FROM 80
     "heading_line_length": 100,
     // Number of characters for code blocks, CHANGED FROM 80
-    "code_block_line_length": 100,
+    "code_block_line_length": 2000,
     // Include code blocks
     "code_blocks": true,
     // Include tables

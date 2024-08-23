@@ -266,7 +266,6 @@ Successfully installed asttokens-2.4.1 atom-0.10.5 attrs-24.2.0 automat-24.8.1 b
 richel@richel-N141CU:~/GitHubs/loerdagskurser/misc/vinyl_cutter$ 
 ```
 
-
 Works!
 
 Starting it:
