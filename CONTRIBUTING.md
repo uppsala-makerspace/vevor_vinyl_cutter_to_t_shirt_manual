@@ -3,7 +3,7 @@
 Awesome that you are reading this!
 
 The goal of this repository is to show how to use the Vevor
-viny cutter to create a T-shirt.
+vinyl cutter to create a T-shirt.
 Suggestions are welcomed that help achieve this goal,
 with a preference to accept suggestions.
 
