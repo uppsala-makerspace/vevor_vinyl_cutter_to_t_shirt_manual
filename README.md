@@ -25,19 +25,19 @@ apt-get install python3-pip python3-pyqt5 python3-setuptools libcups2-dev python
 
 Create a (mandatory!) virtual environment for Inkcut:
 
-```
+```bash
 python3 -m venv ~/inkcut_venv
 ```
 
 Install the Inkcut and PyQt5 Python packages in the virtual environment"
 
-```
+```bash
 ~/inkcut_venv/bin/pip install inkcut PyQt5
 ```
 
 Now you can start `inkcut` with:
 
-```
+```bash
 ~/inkcut_venv/bin/inkcut 
 ```
 

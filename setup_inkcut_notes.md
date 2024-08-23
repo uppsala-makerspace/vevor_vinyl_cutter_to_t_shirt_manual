@@ -4,7 +4,7 @@ Starting fails: Inkcut cannot open the port
 
 ![Inkcut could not open the port](inkcut_could_not_open_port.png)
 
-```
+```bash
 sudo usermod -a -G dialout "$USER"
 ```
 
@@ -18,7 +18,7 @@ Error at <https://inkcut.org/t/could-not-open-port-devttyacm0-errno-13-permissio
 Then next error:
 
 
-```
+```bash
 2024-08-22 21:11:59,948 | CRITICAL | inkcut | Traceback (most recent call last):
   File "/home/richel/inkcut_venv/lib/python3.12/site-packages/twisted/internet/defer.py", line 2287, in unwindGenerator
     return _cancellableInlineCallbacks(gen)
@@ -60,7 +60,7 @@ Permission denied on that parallel port:
 
 I guess, from <https://askubuntu.com/questions/73687/what-is-the-correct-way-to-change-permissions-of-the-printer-in-dev-usb-lp0#73694> :
 
-```
+```bash
 sudo usermod -a -G lpadmin "$USER"
 ```
 

@@ -14,7 +14,7 @@ pip3 install inkcut
 
 Gives:
 
-```
+```bash
 richel@richel-N141CU:~/GitHubs/loerdagskurser/misc/vinyl_cutter$ pip3 install inkcut
 error: externally-managed-environment
 
@@ -40,17 +40,17 @@ hint: See PEP 668 for the detailed specification.
 
 So:
 
-```
+```bash
 python3 -m venv ~/inkcut_venv
 ```
 
 and
 
-```
+```bash
 ~/inkcut_venv/bin/pip install inkcut
 ```
 
-```
+```bash
 richel@richel-N141CU:~/GitHubs/loerdagskurser/misc/vinyl_cutter$ ~/inkcut_venv/bin/pip install inkcut
 Collecting inkcut
   Downloading inkcut-2.1.5-py2.py3-none-any.whl.metadata (2.7 kB)
@@ -271,13 +271,13 @@ Works!
 
 Starting it:
 
-```
+```bash
 ~/inkcut_venv/bin/inkcut 
 ```
 
 Fails:
 
-```
+```bash
 richel@richel-N141CU:~/GitHubs/loerdagskurser/misc/vinyl_cutter$ ~/inkcut_venv/bin/inkcut 
 Logging to /home/richel/.config/inkcut/logs/inkcut.txt
 2024-08-22 20:44:42,993 | INFO    | inkcut | ========================================
@@ -354,13 +354,13 @@ richel@richel-N141CU:~/GitHubs/loerdagskurser/misc/vinyl_cutter$
 
 Starting `inkcut` with:
 
-```
+```bash
 ~/inkcut_venv/bin/inkcut 
 ```
 
 And it starts:
 
-```
+```bash
 richel@richel-N141CU:~/GitHubs/loerdagskurser/misc/vinyl_cutter$ ~/inkcut_venv/bin/inkcut 
 Logging to /home/richel/.config/inkcut/logs/inkcut.txt
 2024-08-22 20:47:33,618 | INFO    | inkcut | ========================================
