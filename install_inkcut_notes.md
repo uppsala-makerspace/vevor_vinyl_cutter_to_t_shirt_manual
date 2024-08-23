@@ -1,6 +1,6 @@
 # Install Inkcut notes
 
-From https://www.codelv.com/projects/inkcut/docs/installing :
+From <https://www.codelv.com/projects/inkcut/docs/installing> :
 
 ```bash
 apt-get install python3-pip python3-pyqt5 python3-setuptools libcups2-dev python3-pyqt5.qtsvg

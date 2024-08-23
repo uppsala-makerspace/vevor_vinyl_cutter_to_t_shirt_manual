@@ -8,7 +8,7 @@ Starting fails: Inkcut cannot open the port
 sudo usermod -a -G dialout "$USER"
 ```
 
-Error at https://inkcut.org/t/could-not-open-port-devttyacm0-errno-13-permission-denied-devttyacm0/124/ :
+Error at <https://inkcut.org/t/could-not-open-port-devttyacm0-errno-13-permission-denied-devttyacm0/124/> :
 
 > Resolved
 > after running
@@ -58,7 +58,7 @@ Permission denied on that parallel port:
 
 ![](inkcut_permission_denied_parallel_port.png)
 
-I guess, from https://askubuntu.com/questions/73687/what-is-the-correct-way-to-change-permissions-of-the-printer-in-dev-usb-lp0#73694 :
+I guess, from <https://askubuntu.com/questions/73687/what-is-the-correct-way-to-change-permissions-of-the-printer-in-dev-usb-lp0#73694> :
 
 ```
 sudo usermod -a -G lpadmin "$USER"
