@@ -58,7 +58,8 @@ Permission denied on that parallel port:
 
 ![Permission denied on that parallel port](inkcut_permission_denied_parallel_port.png)
 
-I guess, from <https://askubuntu.com/questions/73687/what-is-the-correct-way-to-change-permissions-of-the-printer-in-dev-usb-lp0#73694> :
+I guess, from 
+<https://askubuntu.com/questions/73687/what-is-the-correct-way-to-change-permissions-of-the-printer-in-dev-usb-lp0#73694>:
 
 ```bash
 sudo usermod -a -G lpadmin "$USER"

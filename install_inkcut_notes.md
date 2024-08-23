@@ -332,7 +332,7 @@ qtpy.QtBindingsNotFoundError: No Qt bindings could be found
 
 Install PyQt5:
 
-```
+```bash
 richel@richel-N141CU:~/GitHubs/loerdagskurser/misc/vinyl_cutter$ ~/inkcut_venv/bin/pip install PyQt5
 Collecting PyQt5
   Downloading PyQt5-5.15.11-cp38-abi3-manylinux_2_17_x86_64.whl.metadata (2.1 kB)
