@@ -493,9 +493,7 @@ Use a parallel port instead, from the blue USB:
 
 Permission denied on that parallel port:
 
-
 ![](inkcut_permission_denied_parallel_port.png)
-
 
 I guess, from https://askubuntu.com/questions/73687/what-is-the-correct-way-to-change-permissions-of-the-printer-in-dev-usb-lp0#73694 :
 
@@ -503,6 +501,18 @@ I guess, from https://askubuntu.com/questions/73687/what-is-the-correct-way-to-c
 sudo usermod -a -G lpadmin "$USER"
 ```
 
+No, use the serial port!
+
+![](set_baudrate_to_38400.png)
+
+> Use the serial port with a baudrate of 38400.
+> If you cannot select `ttyUSB0`, you've used the wrong USB cable
+> coming out of the viny cutter
+
 ## 3. Use Inkcut
+
+![Inkcut in action](inkcut_with_ums_logo.png)
+
+> Inkcut in action
 
 ## 4. Tranfer vinyl to T-shirt
