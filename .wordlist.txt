@@ -128,7 +128,8 @@ inkcut
 lp
 PyQt
 usb
-
+Vevor
+codelv
 
 
 

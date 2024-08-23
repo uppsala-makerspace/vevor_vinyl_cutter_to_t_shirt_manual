@@ -6,9 +6,9 @@ Our Vevor vinyl cutter from the front|Our Vevor vinyl cutter from an isometric p
 
 Manual for using the Vevor vinyl cutter to create a T-shirt
 
-Produre:
+Procedure:
 
-- 1. Instal Inkcut
+- 1. Install Inkcut
 - 2. Setup Inkcut
 - 3. Use Inkcut
 - 4. Transfer vinyl to T-shirt
