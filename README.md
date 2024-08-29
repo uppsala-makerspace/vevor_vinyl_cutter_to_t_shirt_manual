@@ -55,7 +55,12 @@ sudo usermod -a -G dialout "$USER"
 
 Restart (yes, a cold boot!).
 
-Plug in the correct USB cable from the vinyl cutter to your computer.
+
+Plug in the correct USB cable from the vinyl cutter to your computer:
+
+Vinyl cutter side|Center|Computer side
+---|---|---
+![Cable at the vinyl cutter side](cable_vevor_side.jpg)|![Center of cable](cable_center.jpg)|![Cable at the computer side](cable_computer_side.jpg)
 
 Go to the 'Configure device | Connection':
 
@@ -78,7 +83,26 @@ Go to the 'Configure device | Connection':
 
 ## 4. Transfer vinyl to T-shirt
 
+![Press not yet ready](press_not_yet_ready.jpg)
+
+> Press not yet ready
+
+
+
 [No idea yet]
+
+![Transfer is ready](transfer_ready.jpg)
+
+> Transfer is ready
+
+## Troubleshooting
+
+### The vinyl cutter is confused
+
+![The vinyl cutter is confused](vevor_is_confused.jpg)
+
+This may happen when you send multiple prints at the same time.
+Press reset, close Inkcut, press reset, start Inkcut and try again
 
 ## Files used by continuous integration scripts
 
