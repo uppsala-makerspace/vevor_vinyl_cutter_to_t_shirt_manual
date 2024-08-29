@@ -55,12 +55,24 @@ sudo usermod -a -G dialout "$USER"
 
 Restart (yes, a cold boot!).
 
+## 3. Connect the vinyl cutter
 
 Plug in the correct USB cable from the vinyl cutter to your computer:
 
 Vinyl cutter side|Center|Computer side
 ---|---|---
 ![Cable at the vinyl cutter side](cable_vevor_side.jpg)|![Center of cable](cable_center.jpg)|![Cable at the computer side](cable_computer_side.jpg)
+
+## 4. Find suitable foil
+
+Suitable foil looks like this:
+
+![Transfer foil ready for transfer](transfer_ready.jpg)
+
+- The foil feels smoother than a sticker
+- 
+
+## 4. Set up Inkcut connection
 
 Go to the 'Configure device | Connection':
 
@@ -75,7 +87,9 @@ Go to the 'Configure device | Connection':
 > If you cannot select `ttyUSB0`, you've used the wrong USB cable
 > coming out of the vinyl cutter
 
-## 3. Use Inkcut
+
+
+## 5. Use Inkcut
 
 ![Inkcut in action](inkcut_with_ums_logo.png)
 
