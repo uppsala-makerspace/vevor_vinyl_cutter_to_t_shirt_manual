@@ -70,6 +70,7 @@ Suitable foil looks like this:
 ![Transfer foil ready for transfer](transfer_ready.jpg)
 
 - The foil feels smoother than a sticker
+- The foil is shinier than a sticker
 - 
 
 ## 4. Set up Inkcut connection
