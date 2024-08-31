@@ -86,7 +86,7 @@ Slice|![](foil_schematic_slice.png)        |![](foil_schematic_slice_after_cutti
 Isometric|![](foil_schematic_isometric.png)|![](foil_schematic_isometric_after_cutting.png)
 
 > Structure of the foil and what will be cut away.
-> Light-blue: thick, transparant layer, do not cut, 
+> Light-blue: thick, transparant layer, do not cut,
 > can be separated from orange layer by hand.
 > Orange: the color of the print.
 > White: the glue connecting the print to the T-shirt
