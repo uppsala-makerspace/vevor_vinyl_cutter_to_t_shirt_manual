@@ -7,6 +7,7 @@ Our Vevor vinyl cutter from the front|Our Vevor vinyl cutter from an isometric p
 Manual for using the Vevor vinyl cutter to create a T-shirt:
 
 - [Website friendly](guide.md)
+- [Printer friendly](guide.pdf) (PDF)
 
 ## Files used by continuous integration scripts
 
