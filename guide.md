@@ -80,10 +80,10 @@ Suitable foil looks like this:
 
 Place the foil on the vinyl cutter, with the white side up.
 
-View |Before cutting                       |After cutting
------|-------------------------------------|-------------------------
-Slice|![](foil_schematic_slice.png)        |![](foil_schematic_slice_after_cutting.png)
-Isometric|![](foil_schematic_isometric.png)|![](foil_schematic_isometric_after_cutting.png)
+View     |Before cutting                                   |After cutting
+---------|-------------------------------------------------|--------------------------------------------------------------
+Slice    |![Slice before](foil_schematic_slice.png)        |![Slice after](foil_schematic_slice_after_cutting.png)
+Isometric|![Isometric before](foil_schematic_isometric.png)|![Isometric after](foil_schematic_isometric_after_cutting.png)
 
 > Structure of the foil and what will be cut away.
 > Light-blue: thick, transparant layer, do not cut,
