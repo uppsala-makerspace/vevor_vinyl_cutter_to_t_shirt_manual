@@ -71,9 +71,26 @@ Suitable foil looks like this:
 
 - The foil feels smoother than a sticker
 - The foil is shinier than a sticker
-- 
 
-## 4. Set up Inkcut connection
+## 5. Place foil of viny cutter
+
+Place the foil on the vinyl cutter, with the white side up.
+
+View |Before cutting                       |After cutting
+-----|-------------------------------------|-------------------------
+Slice|![](foil_schematic_slice.png)        |![](foil_schematic_slice_after_cutting.png)
+Isometric|![](foil_schematic_isometric.png)|![](foil_schematic_isometric_after_cutting.png)
+
+> Structure of the foil and what will be cut away.
+> Light-blue: thick, transparant layer, do not cut, 
+> can be separated from orange layer by hand.
+> Orange: the color of the print.
+> White: the glue connecting the print to the T-shirt
+
+The knife cuts the white and colored layer only.
+The thick and transparent layer needs to remain intact.
+
+## 6. Set up Inkcut connection
 
 Go to the 'Configure device | Connection':
 
@@ -88,27 +105,36 @@ Go to the 'Configure device | Connection':
 > If you cannot select `ttyUSB0`, you've used the wrong USB cable
 > coming out of the vinyl cutter
 
-
-
-## 5. Use Inkcut
+## 7. Use Inkcut
 
 ![Inkcut in action](inkcut_with_ums_logo.png)
 
 > Inkcut in action
 
-## 4. Transfer vinyl to T-shirt
+## 8. Transfer vinyl to T-shirt
+
+Put the remainder of the foil on the T-shirt,
+with the colorful side up.
 
 ![Press not yet ready](press_not_yet_ready.jpg)
 
-> Press not yet ready
+> Press not yet ready. It shoud say `T=160/160C`. A temperature from
+> 155 to 165 degrees Celcius would also be fine.
 
+Heat up the heat press, this takes about 15 minutes.
 
+Place the T-shirt under the press,
+with the foil at the right spot.
 
-[No idea yet]
+When the heat press is warmed up,
+lower the press. After around 20 seconds,
+the press will start to beep. Raise the press again.
 
-![Transfer is ready](transfer_ready.jpg)
+Wait for the print to cool off.
 
-> Transfer is ready
+Carefull peel off the transparant layer from the shirt.
+
+Done!
 
 ## Troubleshooting
 
