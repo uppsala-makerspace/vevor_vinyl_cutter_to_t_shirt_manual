@@ -87,22 +87,13 @@ rackham
 Richèl's
 subdirectories
 tmp
-Vulpes
 connectivist
-cowsay
-distros
-Easybuild
-et
 filesystem
 hdd
 linuxjourney
 macbook
-marcusl
 multiuser
-Nextflow
 pre
-Rackham's
-reproducibility
 RStudio
 Spack
 tcsh
@@ -134,5 +125,8 @@ baudrate
 vevor
 gmail
 rjcbilderbeek
+makerspace
+uppsala
+
 
 

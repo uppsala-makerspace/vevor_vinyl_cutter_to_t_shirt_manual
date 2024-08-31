@@ -12,7 +12,7 @@ Procedure:
 1. Setup Inkcut
 1. Connect the vinyl cutter
 1. Find suitable foil
-1. Place foil of viny cutter
+1. Place foil of vinyl cutter
 1. Set up Inkcut connection
 1. Use Inkcut
 1. Transfer vinyl to T-shirt
@@ -76,7 +76,7 @@ Suitable foil looks like this:
 - The foil feels smoother than a sticker
 - The foil is shinier than a sticker
 
-## 5. Place foil of viny cutter
+## 5. Place foil of vinyl cutter
 
 Place the foil on the vinyl cutter, with the white side up.
 
@@ -86,7 +86,7 @@ Slice    |![Slice before](foil_schematic_slice.png)        |![Slice after](foil_
 Isometric|![Isometric before](foil_schematic_isometric.png)|![Isometric after](foil_schematic_isometric_after_cutting.png)
 
 > Structure of the foil and what will be cut away.
-> Light-blue: thick, transparant layer, do not cut,
+> Light-blue: thick, transparent layer, do not cut,
 > can be separated from orange layer by hand.
 > Orange: the color of the print.
 > White: the glue connecting the print to the T-shirt
@@ -136,7 +136,7 @@ the press will start to beep. Raise the press again.
 
 Wait for the print to cool off.
 
-Carefull peel off the transparant layer from the shirt.
+Carefully peel off the transparent layer from the shirt.
 
 Done!
 
