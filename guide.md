@@ -140,6 +140,17 @@ Carefully peel off the transparent layer from the shirt.
 
 Done!
 
+## Some SVGs
+
+Filename                    |Thumbnail|Description
+----------------------------|---|---
+<R_written.svg>             |![]()|A handwritten character `R`
+<timeseries_horizontal.svg> |![]()|A timeseries
+<timeseries_vertical.svg>   |![]()|A timeseries
+<UMS_logo_18.svg>           |![]()|UMS logo
+<UMS_logo_18_no_letters.svg>|![]()|UMS logo without the letters
+<utusho.svg>                |![]()|Logo inspired by [Utsuho Reiuji](https://en.touhouwiki.net/wiki/Utsuho_Reiuji)
+
 ## Troubleshooting
 
 ### The vinyl cutter is confused
@@ -148,3 +159,5 @@ Done!
 
 This may happen when you send multiple prints at the same time.
 Press reset, close Inkcut, press reset, start Inkcut and try again
+
+
