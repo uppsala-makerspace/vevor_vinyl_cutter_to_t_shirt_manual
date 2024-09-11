@@ -11,14 +11,14 @@ Manual for using the Vevor vinyl cutter to create a T-shirt:
 
 ## Some SVGs
 
-Filename                    |Thumbnail                                                                    |Description
-----------------------------|-----------------------------------------------------------------------------|---------------------------
-<R_written.svg>             |![R_written_thumbnail.png](R_written_thumbnail.png)                          |A handwritten character `R`
-<timeseries_horizontal.svg> |![timeseries_horizontal_thumbnail.png](timeseries_horizontal_thumbnail.png)  |A timeseries
-<timeseries_vertical.svg>   |![timeseries_vertical_thumbnail.png](timeseries_vertical_thumbnail.png)      |A timeseries
-<UMS_logo_18.svg>           |![UMS_logo_18_thumbnail.png](UMS_logo_18_thumbnail.png)                      |UMS logo
-<UMS_logo_18_no_letters.svg>|![UMS_logo_18_no_letters_thumbnail.png](UMS_logo_18_no_letters_thumbnail.png)|UMS logo without the letters
-<utusho.svg>                |![utusho_thumbnail.png](utusho_thumbnail.png)                                |Logo inspired by [Utsuho Reiuji](https://en.touhouwiki.net/wiki/Utsuho_Reiuji)
+Filename                                                |Thumbnail                                                                    |Description
+--------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------
+[R_written.svg](R_written.svg)                          |![R_written_thumbnail.png](R_written_thumbnail.png)                          |A handwritten character `R`
+[timeseries_horizontal.svg](timeseries_horizontal.svg)  |![timeseries_horizontal_thumbnail.png](timeseries_horizontal_thumbnail.png)  |A timeseries
+[timeseries_vertical.svg](timeseries_vertical.svg)      |![timeseries_vertical_thumbnail.png](timeseries_vertical_thumbnail.png)      |A timeseries
+[UMS_logo_18.svg](UMS_logo_18.svg)                      |![UMS_logo_18_thumbnail.png](UMS_logo_18_thumbnail.png)                      |UMS logo
+[UMS_logo_18_no_letters.svg](UMS_logo_18_no_letters.svg)|![UMS_logo_18_no_letters_thumbnail.png](UMS_logo_18_no_letters_thumbnail.png)|UMS logo without the letters
+[utusho.svg](utusho.svg)                                |![utusho_thumbnail.png](utusho_thumbnail.png)                                |Logo inspired by [Utsuho Reiuji](https://en.touhouwiki.net/wiki/Utsuho_Reiuji)
 
 ## Files used by continuous integration scripts
 
