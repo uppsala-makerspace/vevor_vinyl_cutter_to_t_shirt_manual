@@ -18,6 +18,7 @@ Filename                                                |Thumbnail              
 [timeseries_vertical.svg](timeseries_vertical.svg)      |![timeseries_vertical_thumbnail.png](timeseries_vertical_thumbnail.png)      |A timeseries
 [UMS_logo_18.svg](UMS_logo_18.svg)                      |![UMS_logo_18_thumbnail.png](UMS_logo_18_thumbnail.png)                      |UMS logo
 [UMS_logo_18_no_letters.svg](UMS_logo_18_no_letters.svg)|![UMS_logo_18_no_letters_thumbnail.png](UMS_logo_18_no_letters_thumbnail.png)|UMS logo without the letters
+[UMS_logo_18_lite.svg](UMS_logo_18_lite.svg)            |![UMS_logo_18_lite_thumbnail.png](UMS_logo_18_no_letters_thumbnail.png)      |Minimal version of UMS logo
 [utusho.svg](utusho.svg)                                |![utusho_thumbnail.png](utusho_thumbnail.png)                                |Logo inspired by [Utsuho Reiuji](https://en.touhouwiki.net/wiki/Utsuho_Reiuji)
 
 ## Files used by continuous integration scripts
