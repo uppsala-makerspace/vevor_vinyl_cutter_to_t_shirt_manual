@@ -21,6 +21,8 @@ fi
 for svg_filename in $(ls *.svg)
 do  
   png_filename="${svg_filename%.svg}_thumbnail.png"
-  # echo "png_filename: ${png_filename}"
+  echo "svg_filename: ${svg_filename}"
+  echo "png_filename: ${png_filename}"
+  rm -f "${png_filename}"
   inkscape -w 128 -h 128 "${svg_filename}" -o "${png_filename}"
 done
