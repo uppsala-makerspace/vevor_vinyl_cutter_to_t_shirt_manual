@@ -15,6 +15,7 @@ Manual for using the Vevor vinyl cutter to create a T-shirt
 
 ## Procedure
 
+1. Get T-shirts
 1. Install Inkcut
 1. Setup Inkcut
 1. Connect the vinyl cutter
@@ -24,7 +25,14 @@ Manual for using the Vevor vinyl cutter to create a T-shirt
 1. Use Inkcut
 1. Transfer vinyl to T-shirt
 
-## 1. Install Inkcut
+## 1. Get T-shirts
+
+Get one or more T-shirts.
+
+A good place to buy is [Lager 157](https://www.lager157.com) at Kungsgatan 95,
+where one can buy T-shirts of good quality for 30 kr a piece.
+
+## 2. Install Inkcut
 
 - See [Install Inkcut notes](install_inkcut_notes.md) for the notes behind this
 
@@ -54,7 +62,7 @@ Now you can start `inkcut` with:
 
 ![inkcut in action](start_inkcut.png)
 
-## 2. Setup Inkcut
+## 3. Setup Inkcut
 
 - See [Setup Inkcut notes](setup_inkcut_notes.md) for the notes behind this
 
@@ -66,7 +74,7 @@ sudo usermod -a -G dialout "$USER"
 
 Restart (yes, a cold boot!).
 
-## 3. Connect the vinyl cutter
+## 4. Connect the vinyl cutter
 
 Plug in the correct USB cable from the vinyl cutter to your computer:
 
@@ -74,7 +82,7 @@ Vinyl cutter side|Center|Computer side
 ---|---|---
 ![Cable at the vinyl cutter side](cable_vevor_side.jpg)|![Center of cable](cable_center.jpg)|![Cable at the computer side](cable_computer_side.jpg)
 
-## 4. Find suitable foil
+## 5. Find suitable foil
 
 Suitable foil looks like this:
 
@@ -83,7 +91,7 @@ Suitable foil looks like this:
 - The foil feels smoother than a sticker
 - The foil is shinier than a sticker
 
-## 5. Place foil of vinyl cutter
+## 6. Place foil of vinyl cutter
 
 Place the foil on the vinyl cutter, with the white side up.
 
@@ -101,7 +109,7 @@ Isometric|![Isometric before](foil_schematic_isometric.png)|![Isometric after](f
 The knife cuts the white and colored layer only.
 The thick and transparent layer needs to remain intact.
 
-## 6. Set up Inkcut connection
+## 7. Set up Inkcut connection
 
 Go to the 'Configure device | Connection':
 
@@ -116,15 +124,13 @@ Go to the 'Configure device | Connection':
 > If you cannot select `ttyUSB0`, you've used the wrong USB cable
 > coming out of the vinyl cutter
 
-## 7. Use Inkcut
+## 8. Use Inkcut
 
 Load an SVG.
-
 
 ![Inkcut in action](inkcut_with_ums_logo.png)
 
 > Inkcut in action
-
 
 ![Don't forget to mirror letters](forgot_mirror.png)
 
@@ -139,14 +145,15 @@ Load an SVG.
 
 > Do many copies like this: this is not wasteful
 
-## 8. Transfer vinyl to T-shirt
+## 9. Transfer vinyl to T-shirt
 
 Put the remainder of the foil on the T-shirt,
 with the colorful side up.
 
 ![Press not yet ready](press_not_yet_ready.jpg)
 
-> Press not yet ready. It shoud say `T=160/160C`. A temperature from
+> Press not yet ready. It should say `T=160/160C`.
+> A temperature from
 > 155 to 165 degrees Celcius would also be fine.
 
 Heat up the heat press, this takes about 15 minutes.
@@ -166,7 +173,6 @@ Done!
 
 ![T-shirts that are done](t_shirts_done.jpg)
 
-
 ## Troubleshooting
 
 ### The vinyl cutter is confused
@@ -175,5 +181,3 @@ Done!
 
 This may happen when you send multiple prints at the same time.
 Press reset, close Inkcut, press reset, start Inkcut and try again
-
-
