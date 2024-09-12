@@ -111,9 +111,16 @@ Go to the 'Configure device | Connection':
 
 ## 7. Use Inkcut
 
+Load an SVG.
+
 ![Inkcut in action](inkcut_with_ums_logo.png)
 
 > Inkcut in action
+
+![Don't forget to mirror letters](forgot_mirror.png)
+
+> Don't forget to mirror letters!
+> The letters should be mirrored horizontally
 
 ## 8. Transfer vinyl to T-shirt
 
