@@ -6,7 +6,14 @@ Our Vevor vinyl cutter from the front|Our Vevor vinyl cutter from an isometric p
 
 Manual for using the Vevor vinyl cutter to create a T-shirt
 
-Procedure:
+## Time estimates
+
+- Most time will be spent peeling plastic from the vinyl
+- Schedule two hours to produce your first T-shirt with one print
+- Schedule 10 minutes to produce your tenth T-shirt with one print,
+  15 minutes for two print
+
+## Procedure
 
 1. Install Inkcut
 1. Setup Inkcut
@@ -113,14 +120,24 @@ Go to the 'Configure device | Connection':
 
 Load an SVG.
 
+
 ![Inkcut in action](inkcut_with_ums_logo.png)
 
 > Inkcut in action
+
 
 ![Don't forget to mirror letters](forgot_mirror.png)
 
 > Don't forget to mirror letters!
 > The letters should be mirrored horizontally
+
+![Don't do two copies like this](inkcut_2_copies_wasteful.png)
+
+> Don't do two copies like this, this is wasteful.
+
+![Do many copies like this](inkcut_many.png)
+
+> Do many copies like this: this is not wasteful
 
 ## 8. Transfer vinyl to T-shirt
 
@@ -146,6 +163,9 @@ Wait for the print to cool off.
 Carefully peel off the transparent layer from the shirt.
 
 Done!
+
+![T-shirts that are done](t_shirts_done.jpg)
+
 
 ## Troubleshooting
 
