@@ -82,6 +82,15 @@ Vinyl cutter side|Center|Computer side
 ---|---|---
 ![Cable at the vinyl cutter side](cable_vevor_side.jpg)|![Center of cable](cable_center.jpg)|![Cable at the computer side](cable_computer_side.jpg)
 
+## 5. Setup the vinyl cutter
+
+
+- Speed: 20 mm/s
+- Force: 120 gram
+   - If the force is too high, the cutter will go through the vinyl
+   - If the force is too low, the vinyl cannot be removed easilyw
+
+
 ## 5. Find suitable foil
 
 Suitable foil looks like this:
