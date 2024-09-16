@@ -16,10 +16,10 @@ Manual for using the Vevor vinyl cutter to create a T-shirt
 ## Procedure
 
 1. Get T-shirts
+1. Get vinyl
 1. Install Inkcut
 1. Setup Inkcut
 1. Connect the vinyl cutter
-1. Find suitable foil
 1. Place foil of vinyl cutter
 1. Set up Inkcut connection
 1. Use Inkcut
@@ -32,7 +32,25 @@ Get one or more T-shirts.
 A good place to buy is [Lager 157](https://www.lager157.com) at Kungsgatan 95,
 where one can buy T-shirts of good quality for 30 kr a piece.
 
-## 2. Install Inkcut
+## 2. Get vinyl
+
+Get suitable vinyl
+
+Suitable foil looks like this:
+
+![Transfer foil ready for transfer](transfer_ready.jpg)
+
+- The foil feels smoother than a sticker
+- The foil is shinier than a sticker
+
+A good place to vinyl is at [https://www.scandraft.se/](https://www.scandraft.se/),
+where we have bought
+[Siser P.S. Film Easyweed](https://www.scandraft.se/products/heat-transfer-vinyl/siser-cut-transfer/siser-ps-film-easyweed-a0021),
+which works well.
+You can order longer rolls: we've ordered rolls of 25 meters,
+for an unknown price (if you know the price, please [contribute](CONTRIBUTING.md)).
+
+## 3. Install Inkcut
 
 - See [Install Inkcut notes](install_inkcut_notes.md) for the notes behind this
 
@@ -62,7 +80,7 @@ Now you can start `inkcut` with:
 
 ![inkcut in action](start_inkcut.png)
 
-## 3. Setup Inkcut
+## 4. Setup Inkcut
 
 - See [Setup Inkcut notes](setup_inkcut_notes.md) for the notes behind this
 
@@ -74,31 +92,33 @@ sudo usermod -a -G dialout "$USER"
 
 Restart (yes, a cold boot!).
 
-## 4. Connect the vinyl cutter
+## 5. Connect the vinyl cutter
 
 Plug in the correct USB cable from the vinyl cutter to your computer:
 
 Vinyl cutter side|Center|Computer side
----|---|---
+-----------------|------|-------------
 ![Cable at the vinyl cutter side](cable_vevor_side.jpg)|![Center of cable](cable_center.jpg)|![Cable at the computer side](cable_computer_side.jpg)
 
-## 5. Setup the vinyl cutter
+## 6. Setup the vinyl cutter
 
+The vinyl cutter has three parameters:
 
-- Speed: 20 mm/s
-- Force: 120 gram
+- Origin: the bottom-left of the cut,
+  move the red dot to the bottom-left of the vinyl
+- Speed: the speed of the blade
+   - If the speed is too high, no idea what happens. 
+     Please [contribute](CONTRIBUTE.md) if you know!
+   - If the speed is too low, the process takes needlessly longer
+- Force: how much force the blade applies to the vinyl
    - If the force is too high, the cutter will go through the vinyl
    - If the force is too low, the vinyl cannot be removed easilyw
 
 
-## 5. Find suitable foil
+Vinyl          |Speed (mm/s)|Force(g)
+---------------|------------|---------
+Siser P.S. Film|20          |120
 
-Suitable foil looks like this:
-
-![Transfer foil ready for transfer](transfer_ready.jpg)
-
-- The foil feels smoother than a sticker
-- The foil is shinier than a sticker
 
 ## 6. Place foil of vinyl cutter
 
