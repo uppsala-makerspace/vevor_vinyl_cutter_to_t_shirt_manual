@@ -15,42 +15,57 @@ Manual for using the Vevor vinyl cutter to create a T-shirt
 
 ## Procedure
 
-1. Get T-shirts
-1. Get vinyl
+```mermaid
+flowchart TD
+  subgraph get_materials[Get the materials]
+    get_t_shirt[3.Get T-shirt]
+    get_vinyl[4.Get vinyl]
+  end
+  subgraph prepare_software[One-time software setup]
+    install_inkcut[1.Install inkcut]
+    setup_inkcut[2.Setup inkcut]
+  end
+  subgraph prepare_machines[Prepare machines]
+    connect_cutter[Connect the vinyl cutter]
+    connect_heat_press[Connect the heat press]
+    setup_cutter[Setup the vinyl cutter]
+    setup_heat_press[Setup the heat press]
+  end
+  cut[Cut vinyl]
+  prepare_cut_vinyl[Prepare the cut vinyl]
+  transfer[Transfer vinyl to T-shirt]
+  done[Done!]
+
+
+  connect_cutter --> setup_cutter
+  connect_heat_press --> setup_heat_press
+  install_inkcut --> setup_inkcut
+  setup_inkcut --> cut
+  setup_cutter --> cut
+
+  get_vinyl --> setup_cutter
+  get_t_shirt --> setup_heat_press
+
+  setup_heat_press --> |15 minutes| transfer
+  cut --> prepare_cut_vinyl
+  prepare_cut_vinyl --> transfer
+
+  transfer --> done
+```
+
+> Overview of the procedure
+
 1. Install Inkcut
 1. Setup Inkcut
+1. Get T-shirts
+1. Get vinyl
 1. Connect the vinyl cutter
 1. Place foil of vinyl cutter
 1. Set up Inkcut connection
 1. Use Inkcut
 1. Transfer vinyl to T-shirt
 
-## 1. Get T-shirts
-
-Get one or more T-shirts.
-
-A good place to buy is [Lager 157](https://www.lager157.com) at Kungsgatan 95,
-where one can buy T-shirts of good quality for 30 kr a piece.
-
-## 2. Get vinyl
-
-Get suitable vinyl
-
-Suitable foil looks like this:
-
-![Transfer foil ready for transfer](transfer_ready.jpg)
-
-- The foil feels smoother than a sticker
-- The foil is shinier than a sticker
-
-A good place to vinyl is at [https://www.scandraft.se/](https://www.scandraft.se/),
-where we have bought
-[Siser P.S. Film Easyweed](https://www.scandraft.se/products/heat-transfer-vinyl/siser-cut-transfer/siser-ps-film-easyweed-a0021),
-which works well.
-You can order longer rolls: we've ordered rolls of 25 meters,
-for an unknown price (if you know the price, please [contribute](CONTRIBUTING.md)).
-
-## 3. Install Inkcut
+## 1. Install Inkcut
 
 - See [Install Inkcut notes](install_inkcut_notes.md) for the notes behind this
 
@@ -80,7 +95,7 @@ Now you can start `inkcut` with:
 
 ![inkcut in action](start_inkcut.png)
 
-## 4. Setup Inkcut
+## 2. Setup Inkcut
 
 - See [Setup Inkcut notes](setup_inkcut_notes.md) for the notes behind this
 
@@ -91,6 +106,32 @@ sudo usermod -a -G dialout "$USER"
 ```
 
 Restart (yes, a cold boot!).
+
+## 3. Get T-shirts
+
+Get one or more T-shirts.
+
+A good place to buy is [Lager 157](https://www.lager157.com) at Kungsgatan 95,
+where one can buy T-shirts of good quality for 30 kr a piece.
+
+## 4. Get vinyl
+
+Get suitable vinyl
+
+Suitable foil looks like this:
+
+![Transfer foil ready for transfer](transfer_ready.jpg)
+
+- The foil feels smoother than a sticker
+- The foil is shinier than a sticker
+
+A good place to vinyl is at [https://www.scandraft.se/](https://www.scandraft.se/),
+where we have bought
+[Siser P.S. Film Easyweed](https://www.scandraft.se/products/heat-transfer-vinyl/siser-cut-transfer/siser-ps-film-easyweed-a0021),
+which works well.
+You can order longer rolls: we've ordered rolls of 25 meters,
+for an unknown price (if you know the price, please [contribute](CONTRIBUTING.md)).
+
 
 ## 5. Connect the vinyl cutter
 
@@ -115,10 +156,10 @@ The vinyl cutter has three parameters:
    - If the force is too low, the vinyl cannot be removed easilyw
 
 
-Vinyl          |Speed (mm/s)|Force(g)
----------------|------------|---------
-Siser P.S. Film|20          |120
-
+Vinyl          |Speed (mm/s)|Force(g) |Recommendation source
+---------------|------------|---------|----------------------
+Siser P.S. Film|20          |120      |Trying out, works!
+Siser P.S. Film|300         |60       |[manual](PS-FILM-EASYWEED-EN.pdf)
 
 ## 6. Place foil of vinyl cutter
 
@@ -173,6 +214,13 @@ Load an SVG.
 ![Do many copies like this](inkcut_many.png)
 
 > Do many copies like this: this is not wasteful
+
+## 9. Setup heat press
+
+Vinyl          |Temperature (C)|Time (s) |Recommendation source
+---------------|---------------|---------|----------------------
+Siser P.S. Film|10             |180      |Trying out, works!
+Siser P.S. Film|15             |150      |[manual](PS-FILM-EASYWEED-EN.pdf)
 
 ## 9. Transfer vinyl to T-shirt
 
