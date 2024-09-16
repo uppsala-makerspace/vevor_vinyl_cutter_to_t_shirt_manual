@@ -9,6 +9,48 @@ Manual for using the Vevor vinyl cutter to create a T-shirt:
 
 [Contributions are welcome](CONTRIBUTING.md)!
 
+## Overview
+
+```mermaid
+flowchart TD
+  subgraph get_materials[Get the materials]
+    get_t_shirt[3.Get T-shirt]
+    get_vinyl[4.Get vinyl]
+  end
+  subgraph prepare_software[One-time software setup]
+    install_inkcut[1.Install inkcut]
+    setup_inkcut[2.Setup inkcut]
+  end
+  subgraph prepare_machines[Prepare machines]
+    connect_cutter[Connect the vinyl cutter]
+    connect_heat_press[Connect the heat press]
+    setup_cutter[Setup the vinyl cutter]
+    setup_heat_press[Setup the heat press]
+  end
+  cut[Cut vinyl]
+  prepare_cut_vinyl[Prepare the cut vinyl]
+  transfer[Transfer vinyl to T-shirt]
+  done[Done!]
+
+
+  connect_cutter --> setup_cutter
+  connect_heat_press --> setup_heat_press
+  install_inkcut --> setup_inkcut
+  setup_inkcut --> cut
+  setup_cutter --> cut
+
+  get_vinyl --> setup_cutter
+  get_t_shirt --> setup_heat_press
+
+  setup_heat_press --> |15 minutes| transfer
+  cut --> prepare_cut_vinyl
+  prepare_cut_vinyl --> transfer
+
+  transfer --> done
+```
+
+> Overview of the procedure
+
 ## Some SVGs
 
 Filename                                                |Thumbnail                                                                    |Description
