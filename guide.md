@@ -96,7 +96,6 @@ which works well.
 You can order longer rolls: we've ordered rolls of 25 meters,
 for an unknown price (if you know the price, please [contribute](CONTRIBUTING.md)).
 
-
 ## 5. Connect the vinyl cutter
 
 Plug in the correct USB cable from the vinyl cutter to your computer:
@@ -112,13 +111,12 @@ The vinyl cutter has three parameters:
 - Origin: the bottom-left of the cut,
   move the red dot to the bottom-left of the vinyl
 - Speed: the speed of the blade
-   - If the speed is too high, no idea what happens. 
+    - If the speed is too high, no idea what happens.
      Please [contribute](CONTRIBUTE.md) if you know!
-   - If the speed is too low, the process takes needlessly longer
+    - If the speed is too low, the process takes needlessly longer
 - Force: how much force the blade applies to the vinyl
-   - If the force is too high, the cutter will go through the vinyl
-   - If the force is too low, the vinyl cannot be removed easilyw
-
+    - If the force is too high, the cutter will go through the vinyl
+    - If the force is too low, the vinyl cannot be removed easilyw
 
 Vinyl          |Speed (mm/s)|Force(g) |Recommendation source
 ---------------|------------|---------|----------------------
