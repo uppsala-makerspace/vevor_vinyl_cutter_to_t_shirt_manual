@@ -112,7 +112,7 @@ The vinyl cutter has three parameters:
   move the red dot to the bottom-left of the vinyl
 - Speed: the speed of the blade
     - If the speed is too high, no idea what happens.
-     Please [contribute](CONTRIBUTE.md) if you know!
+     Please [contribute](CONTRIBUTING.md) if you know!
     - If the speed is too low, the process takes needlessly longer
 - Force: how much force the blade applies to the vinyl
     - If the force is too high, the cutter will go through the vinyl
