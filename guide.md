@@ -234,7 +234,7 @@ not on a roller at the bottom:
 
 ![The right wheel is not on the roller](wheel_not_on_roller_annotated.png)
 
-> The right wheel (right rectangle) is not on the roller 
+> The right wheel (right rectangle) is not on the roller
 > (partially shown and indicated by the left rectangle)
 
 ### The vinyl cutter is confused
