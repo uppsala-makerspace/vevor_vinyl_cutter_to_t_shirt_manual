@@ -75,8 +75,10 @@ Restart (yes, a cold boot!).
 
 Get one or more T-shirts.
 
-A good place to buy is [Lager 157](https://www.lager157.com) at Kungsgatan 95,
-where one can buy T-shirts of good quality for 30 kr a piece.
+Company                               |Address                                                                                     |Price per T-shirt (kr)|Description
+--------------------------------------|--------------------------------------------------------------------------------------------|----------------------|------------------
+[Lager 157](https://www.lager157.com) |[Kungsgatan 95](https://www.openstreetmap.org/way/155287836)                                |                   30 |Has S, M, L and XL
+[New Yorker](https://www.newyorker.de)|[Marknadsgatan 1](https://www.openstreetmap.org/node/12196861434#map=19/59.875975/17.674263)|                  119 |?All sizes
 
 ## 4. Get vinyl
 
