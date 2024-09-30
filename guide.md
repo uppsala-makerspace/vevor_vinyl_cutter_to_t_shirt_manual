@@ -75,10 +75,12 @@ Restart (yes, a cold boot!).
 
 Get one or more T-shirts.
 
-Company                               |Address                                                                                     |Price per T-shirt (kr)|Description
---------------------------------------|--------------------------------------------------------------------------------------------|----------------------|------------------
-[Lager 157](https://www.lager157.com) |[Kungsgatan 95](https://www.openstreetmap.org/way/155287836)                                |                   30 |Has S, M, L and XL
-[New Yorker](https://www.newyorker.de)|[Marknadsgatan 1](https://www.openstreetmap.org/node/12196861434#map=19/59.875975/17.674263)|                  119 |?All sizes
+Company                               |Address                                                                                     |Price|Description
+-------------|------------------|-----|------------------
+[Lager 157](https://www.lager157.com) |[Kungsgatan 95](https://www.openstreetmap.org/way/155287836)                                |  30 |Has S, M, L and XL
+[New Yorker](https://www.newyorker.de)|[Marknadsgatan 1](https://www.openstreetmap.org/node/12196861434#map=19/59.875975/17.674263)|  79 |?All sizes
+
+- Price is in kroner per (cheapest) T-shirt
 
 ## 4. Get vinyl
 
