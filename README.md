@@ -14,8 +14,8 @@ Manual for using the Vevor vinyl cutter to create a T-shirt:
 ```mermaid
 flowchart TD
   subgraph get_materials[Get the materials]
-    get_t_shirt[3.Get T-shirt]
     get_vinyl[4.Get vinyl]
+    get_t_shirt[3.Get T-shirt]
   end
   subgraph prepare_software[One-time software setup]
     install_inkcut[1.Install inkcut]
