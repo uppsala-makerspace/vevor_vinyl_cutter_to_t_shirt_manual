@@ -85,7 +85,6 @@ Company                               |Address                                  
 
 <!-- markdownlint-enable MD013 -->
 
-
 - Price is in kroner per (cheapest) T-shirt
 
 ## 4. Get vinyl
