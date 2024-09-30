@@ -53,6 +53,9 @@ flowchart TD
 
 ## Some SVGs
 
+<!-- Some unavoidable long lines -->
+<!-- markdownlint-disable MD013 -->
+
 Filename                                                  |Thumbnail                                                                    |Description
 ----------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------
 [2024_logo_Complex_Black.svg](2024_logo_Complex_Black.svg)|![2024_logo_Complex_Black_thumbnail.png](2024_logo_Complex_Black_thumbnail.png)|2024 UMS logo, complex
@@ -65,6 +68,8 @@ Filename                                                  |Thumbnail            
 [timeseries_horizontal.svg](timeseries_horizontal.svg)    |![timeseries_horizontal_thumbnail.png](timeseries_horizontal_thumbnail.png)    |A timeseries
 [timeseries_vertical.svg](timeseries_vertical.svg)        |![timeseries_vertical_thumbnail.png](timeseries_vertical_thumbnail.png)        |A timeseries
 [utusho.svg](utusho.svg)                                  |![utusho_thumbnail.png](utusho_thumbnail.png)                                  |Logo inspired by [Utsuho Reiuji](https://en.touhouwiki.net/wiki/Utsuho_Reiuji)
+
+<!-- markdownlint-enable MD013 -->
 
 ## Files used by continuous integration scripts
 

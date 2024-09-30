@@ -135,4 +135,10 @@ timeseries
 UMS
 Utsuho
 utusho
+Easyweed
+Kungsgatan
+Marknadsgatan
+scandraft
+Siser
+Yorker
 
