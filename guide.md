@@ -238,4 +238,3 @@ not on a roller at the bottom.
 
 This may happen when you send multiple prints at the same time.
 Press reset, close Inkcut, press reset, start Inkcut and try again
-
