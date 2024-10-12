@@ -29,9 +29,11 @@ Manual for using the Vevor vinyl cutter to create a T-shirt
 1. Use Inkcut
 1. Transfer vinyl to T-shirt
 
+\pagebreak
+
 ## 1. Install Inkcut
 
-- See [Install Inkcut notes](install_inkcut_notes.md) for the notes behind this
+<!-- See install_inkcut_notes.md for the notes behind this -->
 
 Install the Debian packages:
 
@@ -58,6 +60,8 @@ Now you can start `inkcut` with:
 ```
 
 ![inkcut in action](start_inkcut.png)
+
+\pagebreak
 
 ## 2. Setup Inkcut
 
@@ -105,6 +109,8 @@ which works well.
 You can order longer rolls: we've ordered rolls of 25 meters,
 for an unknown price (if you know the price, please [contribute](CONTRIBUTING.md)).
 
+\pagebreak
+
 ## 5. Connect the vinyl cutter
 
 Plug in the correct USB cable from the vinyl cutter to your computer:
@@ -132,7 +138,9 @@ Vinyl          |Speed (mm/s)|Force(g) |Recommendation source
 Siser P.S. Film|20          |120      |Trying out, works!
 Siser P.S. Film|300         |60       |[manual](PS-FILM-EASYWEED-EN.pdf)
 
-## 6. Place foil of vinyl cutter
+\pagebreak
+
+## 7. Place foil of vinyl cutter
 
 Place the foil on the vinyl cutter, with the white side up.
 
@@ -150,7 +158,9 @@ Isometric|![Isometric before](foil_schematic_isometric.png)|![Isometric after](f
 The knife cuts the white and colored layer only.
 The thick and transparent layer needs to remain intact.
 
-## 7. Set up Inkcut connection
+\pagebreak
+
+## 8. Set up Inkcut connection
 
 Go to the 'Configure device | Connection':
 
@@ -165,7 +175,9 @@ Go to the 'Configure device | Connection':
 > If you cannot select `ttyUSB0`, you've used the wrong USB cable
 > coming out of the vinyl cutter
 
-## 8. Use Inkcut
+\pagebreak
+
+## 9. Use Inkcut
 
 Load an SVG.
 
@@ -186,14 +198,16 @@ Load an SVG.
 
 > Do many copies like this: this is not wasteful
 
-## 9. Setup heat press
+## 10. Setup heat press
 
 Vinyl          |Temperature (C)|Time (s) |Recommendation source
 ---------------|---------------|---------|----------------------
 Siser P.S. Film|10             |180      |Trying out, works!
 Siser P.S. Film|15             |150      |[manual](PS-FILM-EASYWEED-EN.pdf)
 
-## 9. Transfer vinyl to T-shirt
+\pagebreak
+
+## 11. Transfer vinyl to T-shirt
 
 Put the remainder of the foil on the T-shirt,
 with the colorful side up.
@@ -220,6 +234,8 @@ Carefully peel off the transparent layer from the shirt.
 Done!
 
 ![T-shirts that are done](t_shirts_done.jpg)
+
+\pagebreak
 
 ## Troubleshooting
 
