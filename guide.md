@@ -35,10 +35,15 @@ Manual for using the Vevor vinyl cutter to create a T-shirt
 
 <!-- See install_inkcut_notes.md for the notes behind this -->
 
+Inkcut is a program to send things to cut to the vinyl cutter.
+It works under Linux, Mac and Windows. 
+This guide shows how to do this for Linux.
+
 Install the Debian packages:
 
 ```bash
-apt-get install python3-pip python3-pyqt5 python3-setuptools libcups2-dev python3-pyqt5.qtsvg
+apt-get install python3-pip python3-pyqt5 python3-setuptools
+apt-get install libcups2-dev python3-pyqt5.qtsvg
 ```
 
 Create a (mandatory!) virtual environment for Inkcut:
@@ -99,7 +104,7 @@ Suitable foil looks like this:
 
 ![Transfer foil ready for transfer](transfer_ready.jpg)
 
-- The foil feels smoother than a sticker
+- The foil feels smoother than a sticker ('klistermärke')
 - The foil is shinier than a sticker
 
 A good place to vinyl is at [https://www.scandraft.se/](https://www.scandraft.se/),
@@ -183,27 +188,28 @@ Load an SVG.
 
 ![Inkcut in action](inkcut_with_ums_logo.png)
 
-> Inkcut in action
+> Fig 5. Inkcut in action
 
 ![Don't forget to mirror letters](forgot_mirror.png)
 
-> Don't forget to mirror letters!
-> The letters should be mirrored horizontally
+> Fig 6. Don't forget to mirror letters!
+> The letters should be mirrored horizontally.
+> Cutting letters like this will fail.
 
 ![Don't do two copies like this](inkcut_2_copies_wasteful.png)
 
-> Don't do two copies like this, this is wasteful.
+> Fig 7. Don't do two copies like this, this is wasteful.
 
 ![Do many copies like this](inkcut_many.png)
 
-> Do many copies like this: this is not wasteful
+> Fig 8. Do many copies like this: this is not wasteful
 
 ## 10. Setup heat press
 
 Vinyl          |Temperature (C)|Time (s) |Recommendation source
 ---------------|---------------|---------|----------------------
-Siser P.S. Film|10             |180      |Trying out, works!
-Siser P.S. Film|15             |150      |[manual](PS-FILM-EASYWEED-EN.pdf)
+Siser P.S. Film|180            |10       |Trying out, works!
+Siser P.S. Film|150            |15       |[manual](PS-FILM-EASYWEED-EN.pdf)
 
 \pagebreak
 
