@@ -190,11 +190,10 @@ Load an SVG.
 
 > Fig 5. Inkcut in action
 
-![Don't forget to mirror letters](forgot_mirror.png)
+![Don't forget to mirror letters. These letters will be mirrored when put on a T-shirt](forgot_mirror.png)
 
-> Fig 6. Don't forget to mirror letters!
-> The letters should be mirrored horizontally.
-> Cutting letters like this will fail.
+> Fig 6. Don't forget to mirror letters.
+> These letters will be mirrored when put on a T-shirt
 
 ![Don't do two copies like this](inkcut_2_copies_wasteful.png)
 
