@@ -42,8 +42,8 @@ This guide shows how to do this for Linux.
 Install the Debian packages:
 
 ```bash
-apt-get install python3-pip python3-pyqt5 python3-setuptools
-apt-get install libcups2-dev python3-pyqt5.qtsvg
+sudo apt-get install python3-pip python3-pyqt5 python3-setuptools
+sudo apt-get install libcups2-dev python3-pyqt5.qtsvg
 ```
 
 Create a (mandatory!) virtual environment for Inkcut:
@@ -190,6 +190,11 @@ Load an SVG.
 
 > Fig 5. Inkcut in action
 
+Don't forget to mirror letters.
+These letters will be mirrored when put on a T-shirt.
+Click on 'Mirror y-axis' (at the bottom-right of the screen) to mirror
+the letters horizontally. 
+
 ![Don't forget to mirror letters. These letters will be mirrored when put on a T-shirt](forgot_mirror.png)
 
 > Fig 6. Don't forget to mirror letters.
@@ -202,6 +207,12 @@ Load an SVG.
 ![Do many copies like this](inkcut_many.png)
 
 > Fig 8. Do many copies like this: this is not wasteful
+
+Click on 'Device | Send to device' to start the vinyl cutter:
+
+![Click on 'Device | Send to device' to start the vinyl cutter](inkcut_send_to_device.png)
+
+> Click on 'Device | Send to device' to start the vinyl cutter
 
 ## 10. Setup heat press
 
