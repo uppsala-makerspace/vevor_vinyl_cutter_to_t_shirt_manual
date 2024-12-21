@@ -36,7 +36,7 @@ Manual for using the Vevor vinyl cutter to create a T-shirt
 <!-- See install_inkcut_notes.md for the notes behind this -->
 
 Inkcut is a program to send things to cut to the vinyl cutter.
-It works under Linux, Mac and Windows. 
+It works under Linux, Mac and Windows.
 This guide shows how to do this for Linux.
 
 Install the Debian packages:
@@ -193,7 +193,7 @@ Load an SVG.
 Don't forget to mirror letters.
 These letters will be mirrored when put on a T-shirt.
 Click on 'Mirror y-axis' (at the bottom-right of the screen) to mirror
-the letters horizontally. 
+the letters horizontally.
 
 ![Don't forget to mirror letters. These letters will be mirrored when put on a T-shirt](forgot_mirror.png)
 
