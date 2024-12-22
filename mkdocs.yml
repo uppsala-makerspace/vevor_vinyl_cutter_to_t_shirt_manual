@@ -7,16 +7,16 @@ nav:
   - Home: index.md
   - Steps:
     - Procedure overview: steps/procedure.md
-    - Install Inkcut: steps/1_install_inkcut.md
-    - Setup Inkcut: steps/2_setup_inkcut.md
-    - Get t-shirts: steps/3_get_t_shirts.md
-    - Get vinyl: steps/4_get_vinyl.md
-    - Connect the vinyl cutter: steps/5_connect_vinyl_cutter.md
-    - Place foil: steps/7_place_foil.md
-    - Setup Inkcut connection: steps/8_setup_inkcut_connection.md
-    - Use Inkcut: steps/9_use_inkcut.md
-    - Setup heat press: steps/10_setup_heat_press.md
-    - Transfer vinyl to t-shirt: steps/11_transfer_vinyl_to_t_shirt.md
+    - 1. Install Inkcut: steps/1_install_inkcut.md
+    - 2. Setup Inkcut: steps/2_setup_inkcut.md
+    - 3. Get t-shirts: steps/3_get_t_shirts.md
+    - 4. Get vinyl: steps/4_get_vinyl.md
+    - 5. Connect the vinyl cutter: steps/5_connect_vinyl_cutter.md
+    - 7. Place foil: steps/7_place_foil.md
+    - 8. Setup Inkcut connection: steps/8_setup_inkcut_connection.md
+    - 9. Use Inkcut: steps/9_use_inkcut.md
+    - 10. Setup heat press: steps/10_setup_heat_press.md
+    - 11. Transfer vinyl to t-shirt: steps/11_transfer_vinyl_to_t_shirt.md
   - Misc:
     - Code of conduct: CODE_OF_CONDUCT.md
     - Contributing: CONTRIBUTING.md
