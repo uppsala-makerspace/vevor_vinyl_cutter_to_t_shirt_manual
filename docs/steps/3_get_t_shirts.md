@@ -8,8 +8,7 @@ tags:
 
 Get one or more T-shirts.
 
-<!-- Some unavoidable long lines -->
-<!-- markdownlint-disable MD013 -->
+<!-- markdownlint-disable MD013 --><!-- Some unavoidable long lines -->
 
 Company                               |Address                                                                                     |Price|Description
 -------------|------------------|-----|------------------

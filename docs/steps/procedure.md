@@ -6,6 +6,7 @@ tags:
 
 # Procedure
 
-![Overview of the procedure](overview.png)
+Below is an overview of the procedure
+and the dependencies between the steps.
 
-> Overview of the procedure
+![Overview of the procedure](overview.png)

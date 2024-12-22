@@ -5,7 +5,9 @@ tags:
   - heat press
 ---
 
-# 10. Setup heat press
+# 10. Set up heat press
+
+Set up the heat press to have the correct temperature and time.
 
 Vinyl          |Temperature (C)|Time (s) |Recommendation source
 ---------------|---------------|---------|----------------------

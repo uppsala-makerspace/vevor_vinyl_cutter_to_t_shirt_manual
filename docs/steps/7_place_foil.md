@@ -7,7 +7,8 @@ tags:
 
 # 7. Place foil on the vinyl cutter
 
-Place the foil on the vinyl cutter, with the white side up.
+Place the foil on the vinyl cutter, with the white side up,
+i.e. with the thick and transparent plastic at the bottom.
 
 View     |Before cutting                                   |After cutting
 ---------|-------------------------------------------------|--------------------------------------------------------------
