@@ -32,5 +32,3 @@ Now you can start `inkcut` with:
 ```
 
 ![inkcut in action](start_inkcut.png)
-
-\pagebreak
