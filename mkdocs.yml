@@ -25,6 +25,7 @@ nav:
     - Text on vinyl cutter: text_on_vinyl_cutter.md
     - Time estimates: time_estimates.md
     - Troubleshooting: troubleshooting.md
+    - Workshop: workshop/README.md
 
 theme:
   name: material
@@ -33,7 +34,7 @@ theme:
     text: Lato
     code: JetBrains Mono
 
-  logo: assets/logo_color.png
+  logo: docs/loerdagskurser_logo.png
 
   features:
     - toc.integrate
@@ -50,9 +51,6 @@ theme:
     - content.action.edit
     - content.action.view
     
-extra_css:
-  - stylesheets/extra.css
-      
 markdown_extensions:
   - toc:
       toc_depth: 2
