@@ -1,3 +1,9 @@
+---
+tags:
+  - troubleshooting
+  - problems
+---
+
 # Troubleshooting
 
 ## The vinyl cutter is wrinkling the paper

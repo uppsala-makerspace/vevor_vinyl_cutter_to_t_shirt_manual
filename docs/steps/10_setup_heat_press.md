@@ -1,3 +1,10 @@
+---
+tags:
+  - set up
+  - setup
+  - heat press
+---
+
 # 10. Setup heat press
 
 Vinyl          |Temperature (C)|Time (s) |Recommendation source

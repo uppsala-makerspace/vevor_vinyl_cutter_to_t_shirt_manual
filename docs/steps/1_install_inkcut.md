@@ -1,3 +1,10 @@
+---
+tags:
+  - install
+  - Inkcut
+  - software
+---
+
 # 1. Install Inkcut
 
 <!-- See install_inkcut_notes.md for the notes behind this -->

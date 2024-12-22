@@ -1,3 +1,10 @@
+---
+tags:
+  - transfer
+  - t-shirt
+  - vinyl
+---
+
 # 11. Transfer vinyl to T-shirt
 
 Put the remainder of the foil on the T-shirt,

@@ -1,3 +1,11 @@
+---
+tags:
+  - setup
+  - set up
+  - Inkcut
+  - connection
+---
+
 # 8. Set up Inkcut connection
 
 Go to the 'Configure device | Connection':

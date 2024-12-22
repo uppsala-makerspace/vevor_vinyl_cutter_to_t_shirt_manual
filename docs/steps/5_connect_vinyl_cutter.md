@@ -1,3 +1,9 @@
+---
+tags:
+  - connect
+  - vinyl cutter
+---
+
 # 5. Connect the vinyl cutter
 
 Plug in the correct USB cable from the vinyl cutter to your computer:

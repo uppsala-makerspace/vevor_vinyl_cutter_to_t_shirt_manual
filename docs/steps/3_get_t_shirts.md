@@ -1,3 +1,9 @@
+---
+tags:
+  - get
+  - t-shirt
+---
+
 # 3. Get T-shirts
 
 Get one or more T-shirts.

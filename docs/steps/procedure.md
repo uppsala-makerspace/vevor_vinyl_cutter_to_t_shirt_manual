@@ -1,3 +1,9 @@
+---
+tags:
+  - procedure
+  - overview
+---
+
 # Procedure
 
 ![Overview of the procedure](overview.png)

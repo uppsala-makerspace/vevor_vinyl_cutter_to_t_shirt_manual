@@ -1,4 +1,13 @@
+---
+tags:
+  - example
+  - SVGs
+  - images
+---
+
 # SVGs
+
+These are example SVGs.
 
 <!-- Some unavoidable long lines -->
 <!-- markdownlint-disable MD013 -->

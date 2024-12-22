@@ -1,3 +1,9 @@
+---
+tags:
+  - get
+  - vinyl
+---
+
 # 4. Get vinyl
 
 Get suitable vinyl

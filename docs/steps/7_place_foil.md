@@ -1,4 +1,11 @@
-# 7. Place foil of vinyl cutter
+---
+tags:
+  - place
+  - foil
+  - vinyl
+---
+
+# 7. Place foil on the vinyl cutter
 
 Place the foil on the vinyl cutter, with the white side up.
 

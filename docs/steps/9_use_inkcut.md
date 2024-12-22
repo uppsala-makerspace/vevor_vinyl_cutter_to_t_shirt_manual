@@ -1,3 +1,9 @@
+---
+tags:
+  - use
+  - inkcut
+---
+
 # 9. Use Inkcut
 
 Load an SVG.

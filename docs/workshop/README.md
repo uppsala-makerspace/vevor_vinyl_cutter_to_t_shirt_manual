@@ -1,3 +1,8 @@
+---
+tags:
+  - workshop
+---
+
 # Workshop
 
 ## Booklet sections

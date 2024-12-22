@@ -1,3 +1,9 @@
+---
+tags:
+  - time
+  - estimates
+---
+
 # Time estimates
 
 - Most time will be spent peeling plastic from the vinyl

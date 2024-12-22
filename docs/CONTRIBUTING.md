@@ -1,3 +1,8 @@
+---
+tags:
+  - contributing
+---
+
 # Contributing
 
 Awesome that you are reading this!

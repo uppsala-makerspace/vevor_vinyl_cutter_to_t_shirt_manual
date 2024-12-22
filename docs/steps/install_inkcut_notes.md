@@ -1,3 +1,10 @@
+---
+tags:
+  - Install
+  - Inkcut
+  - notes
+---
+
 # Install Inkcut notes
 
 From <https://www.codelv.com/projects/inkcut/docs/installing> :
