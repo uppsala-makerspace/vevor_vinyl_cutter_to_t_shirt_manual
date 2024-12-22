@@ -153,6 +153,5 @@ licensors
 MERCHANTABILITY
 relicensing
 sublicenses
+Sublicensing
 WIPO
-
-
