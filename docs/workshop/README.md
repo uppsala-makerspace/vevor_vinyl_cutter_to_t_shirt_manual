@@ -16,7 +16,7 @@ No|Topic
 10|Setup heat press
 11|Transfer vinyl to T-shirt
 
-## Carroussel
+## Carousel
 
 No|Topic numbers|Needs                         |Teacher(s)
 --|-------------|------------------------------|--------
