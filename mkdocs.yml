@@ -34,7 +34,7 @@ theme:
     text: Lato
     code: JetBrains Mono
 
-  logo: docs/loerdagskurser_logo.png
+  logo: logo/loerdagskurser_logo.png
 
   features:
     - toc.integrate
