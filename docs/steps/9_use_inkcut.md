@@ -52,4 +52,3 @@ Click on 'Device | Send to device' to start the vinyl cutter:
     ![Click on 'Device | Send to device' to start the vinyl cutter](inkcut_send_to_device.png)
 
     > Click on 'Device | Send to device' to start the vinyl cutter
-
