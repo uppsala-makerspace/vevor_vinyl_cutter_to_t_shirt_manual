@@ -1,0 +1,83 @@
+site_name: Vinyl cutter to T-shirt manual
+
+repo_url: https://github.com/uppsala-makerspace/vevor_vinyl_cutter_to_t_shirt_manual
+edit_uri: blob/main/docs/
+
+nav:
+  - Home: index.md
+  - Steps:
+    - Procedure overview: steps/procedure.md
+    - Install Inkcut: steps/1_install_inkcut.md
+    - Setup Inkcut: steps/2_setup_inkcut.md
+    - Get t-shirts: steps/3_get_t_shirts.md
+    - Get vinyl: steps/4_get_vinyl.md
+    - Connect the vinyl cutter: steps/5_connect_vinyl_cutter.md
+    - Place foil: steps/7_place_foil.md
+    - Setup Inkcut connection: steps/8_setup_inkcut_connection.md
+    - Use Inkcut: steps/9_use_inkcut.md
+    - Setup heat press: steps/10_setup_heat_press.md
+    - Transfer vinyl to t-shirt: steps/11_transfer_vinyl_to_t_shirt.md
+  - Misc:
+    - Code of conduct: CODE_OF_CONDUCT.md
+    - Contributing: CONTRIBUTING.md
+    - License: LICENSE.md
+    - SVGs: svgs/README.md
+    - Text on vinyl cutter: text_on_vinyl_cutter.md
+    - Time estimates: time_estimates.md
+    - Troubleshooting: troubleshooting.md
+
+theme:
+  name: material
+  greetings: Welcome to the vinyl cutter to T-shirt manual
+  font:
+    text: Lato
+    code: JetBrains Mono
+
+  logo: assets/logo_color.png
+
+  features:
+    - toc.integrate
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.footer
+    - navigation.expand
+    - search.suggest
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - content.action.edit
+    - content.action.view
+    
+extra_css:
+  - stylesheets/extra.css
+      
+markdown_extensions:
+  - toc:
+      toc_depth: 2
+      permalink: true
+      permalink_title: Anchor link to this section for reference
+  - admonition
+  - tables
+  - attr_list
+  - footnotes
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.keys
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
