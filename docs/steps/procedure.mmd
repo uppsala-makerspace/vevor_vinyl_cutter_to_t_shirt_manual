@@ -15,7 +15,8 @@ flowchart TD
   place_vinyl[7.Place foil]
   setup_inkcut_connection[8.Setup inkcut connection]
   cut[9.Use Inkcut]
-  transfer[11.Transfer vinyl to T-shirt]
+  peel_vinyl[11.Peel vinyl]
+  transfer[12.Transfer vinyl to T-shirt]
   done[Done!]
 
 
@@ -31,6 +32,8 @@ flowchart TD
   get_t_shirt --> transfer
 
   setup_heat_press --> |15 minutes| transfer
-  cut --> transfer
+  cut --> peel_vinyl
+
+  peel_vinyl --> transfer
 
   transfer --> done
