@@ -22,6 +22,7 @@ nav:
     - Code of conduct: CODE_OF_CONDUCT.md
     - Contributing: CONTRIBUTING.md
     - License: LICENSE.md
+    - PDFs: pdfs/README.md
     - SVGs: svgs/README.md
     - Text on vinyl cutter: text_on_vinyl_cutter.md
     - Time estimates: time_estimates.md
