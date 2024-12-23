@@ -5,15 +5,16 @@ tags:
   - vinyl
 ---
 
-# 11. Transfer vinyl to T-shirt
+# 12. Transfer vinyl to T-shirt
 
 Put the remainder of the foil on the T-shirt,
 with the colorful side up.
 
-Heat up the heat press, this takes about 15 minutes.
+???- question "How does that look like?"
 
-Place the T-shirt under the press,
-with the foil at the desired location on the t-shirt.
+    ![Vinyl to be transferred to T-shirt](before_press.jpg)
+
+Confirm the heat press is warmed up.
 
 ???- question "How to determine if the press is warmed up?"
 
@@ -23,6 +24,9 @@ with the foil at the desired location on the t-shirt.
     > A temperature from
     > 155 to 165 degrees Celcius would also be fine.
 
+Place the T-shirt under the press,
+with the foil still at the desired location on the t-shirt.
+
 When the heat press is warmed up,
 lower the press. After the time you've set up in an earlier step,
 the press will start to beep. Raise the press again.
@@ -30,6 +34,10 @@ the press will start to beep. Raise the press again.
 Wait for the print to cool off.
 
 Carefully peel off the transparent layer from the shirt.
+
+???- question "How does that look like?"
+
+    ![Vinyl transferred to T-shirt](after_press.jpg)
 
 Done!
 

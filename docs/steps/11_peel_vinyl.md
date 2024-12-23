@@ -1,38 +1,20 @@
 ---
 tags:
-  - transfer
-  - t-shirt
+  - peel
   - vinyl
 ---
 
-# 11. Transfer vinyl to T-shirt
+# 11. Peel vinyl
 
-Put the remainder of the foil on the T-shirt,
-with the colorful side up.
+You now have vinyl with your pattern cut out.
 
-Heat up the heat press, this takes about 15 minutes.
+???- question "How does that look like?
 
-Place the T-shirt under the press,
-with the foil at the desired location on the t-shirt.
+    ![Vinyl with a pattern cut out](transfer_not_yet_ready.jpg)
 
-???- question "How to determine if the press is warmed up?"
+Remove all the vinyl that should not be on the T-shirt.
+Use your favorite tools for this.
 
-    ![Press not yet ready](press_not_yet_ready.jpg)
+???- question "How does that look like?
 
-    > Press not yet ready. It should say `T=160/160C`.
-    > A temperature from
-    > 155 to 165 degrees Celcius would also be fine.
-
-When the heat press is warmed up,
-lower the press. After the time you've set up in an earlier step,
-the press will start to beep. Raise the press again.
-
-Wait for the print to cool off.
-
-Carefully peel off the transparent layer from the shirt.
-
-Done!
-
-???- question "How does this look like?"
-
-    ![T-shirts that are done](t_shirts_done.jpg)
+    ![After peeling](transfer_ready.jpg)
