@@ -12,9 +12,9 @@ In Inkcut, load an SVG.
 
 ???- question "How does that look like?"
 
-![Inkcut in action](inkcut_with_ums_logo.png)
+    ![Inkcut in action](inkcut_with_ums_logo.png)
 
-> Fig 9.1. Inkcut in action
+    > Fig 9.1. Inkcut in action
 
 ## 9.2 Mirror the image
 
