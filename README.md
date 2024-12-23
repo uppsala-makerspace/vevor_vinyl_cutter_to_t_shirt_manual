@@ -12,7 +12,7 @@ Manual for using the Vevor vinyl cutter to create a T-shirt:
 
 ## Files used by continuous integration scripts
 
-<!-- markdownlint-disable MD013 --><!-- Some unavoidable long lines -->
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Filename                              |Descriptions
 --------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------

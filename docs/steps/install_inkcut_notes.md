@@ -57,6 +57,8 @@ and
 ~/inkcut_venv/bin/pip install inkcut
 ```
 
+<!-- markdownlint-disable MD013 --><!-- Text is shown as-is, hence will break 80 characters per line -->
+
 ```bash
 richel@richel-N141CU:~/GitHubs/loerdagskurser/misc/vinyl_cutter$ ~/inkcut_venv/bin/pip install inkcut
 Collecting inkcut
@@ -273,6 +275,9 @@ Successfully installed asttokens-2.4.1 atom-0.10.5 attrs-24.2.0 automat-24.8.1 b
 richel@richel-N141CU:~/GitHubs/loerdagskurser/misc/vinyl_cutter$ 
 ```
 
+<!-- markdownlint-enable MD013 -->
+
+
 Works!
 
 Starting it:
@@ -366,6 +371,8 @@ Starting `inkcut` with:
 
 And it starts:
 
+<!-- markdownlint-disable MD013 --><!-- Text is shown as-is, hence may break 80 characters per line -->
+
 ```bash
 richel@richel-N141CU:~/GitHubs/loerdagskurser/misc/vinyl_cutter$ ~/inkcut_venv/bin/inkcut 
 Logging to /home/richel/.config/inkcut/logs/inkcut.txt
@@ -423,5 +430,8 @@ Warning: Ignoring XDG_SESSION_TYPE=wayland on Gnome. Use QT_QPA_PLATFORM=wayland
 2024-08-22 20:47:41,392 | DEBUG   | asyncio | Using selector: EpollSelector
 2024-08-22 20:47:41,408 | DEBUG   | asyncio | Using selector: EpollSelector
 ```
+
+<!-- markdownlint-enabled MD013 -->
+
 
 ![inkcut in action](start_inkcut.png)
