@@ -24,4 +24,4 @@ with a preference to accept suggestions.
 
     ![The 'Edit page' icon](edit_page_icon.png)
 
-This GitHub follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
+This GitHub repository follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
