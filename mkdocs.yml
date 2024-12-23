@@ -39,7 +39,7 @@ theme:
   palette:
     primary: black
 
-  logo: logo/loerdagskurser_logo.png
+  logo: svgs/2024_logo_Simple_Black_thumbnail.png
 
   features:
     - toc.integrate
