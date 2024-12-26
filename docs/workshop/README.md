@@ -5,6 +5,10 @@ tags:
 
 # Workshop
 
+- Date: February 7th February 2025
+- Time: 18:00-20:00
+- Place: Uppsala Makerspace
+
 ## Booklet sections
 
 No|Topic
