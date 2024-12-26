@@ -8,21 +8,36 @@ tags:
 - Date: February 7 February 2025
 - Time: 18:00-20:00
 - Place: Uppsala Makerspace
+- Registration: not needed, just show up :-)
+- Max number of participants: unlimited
 
-???- question "Is there more info?"
+## For teachers
 
-    Not yet, it will be added later :-)
+This is the current teaching team:
 
-## Preparation
+Person|Task
+------|-----------
+Richel|Coordinator
+Enrico|Teacher 1: Software installation
+Angela|Teacher 2: Vinyl cutter
+Leo   |Teacher 3: Heat press
 
-Teaching team:
+### Lesson plan
 
-- Richel: coordinator
-- Enrico: Teacher 1
-- Angela: Teacher 2
-- Leo: Teacher 3
+The workshop is scheduled to take two hours, although
+most learners will finish quicker.
 
-## Booklet sections
+Duration (mins)|Description
+---------------|-----------------------------------------------
+5              |Introduction
+5              |Learners read the booklet
+15             |Demo of all steps
+35             |Do it, always have 1 learner at B and C
+15             |Break
+45             |Do it, always have 1 learner at B and C
+15             |Questions
+
+### Booklet sections
 
 No|Topic
 --|---------------------------
@@ -38,7 +53,7 @@ No|Topic
 10|Setup heat press
 11|Transfer vinyl to T-shirt
 
-## Carousel
+### Carousel
 
 No|Topic numbers|Needs                         |Teacher(s)
 --|-------------|------------------------------|--------
@@ -46,21 +61,10 @@ A |1,2          |Laptop                        |Teacher 1 + Richel
 B |5,6,7,8,9    |Vinyl cutter, vinyl           |Teacher 2
 C |10,11        |Heat press, T-shirt, cut vinyl|Teacher 3
 
-## Preparation
+### Materials to prepare
 
 - n booklets
 - n laptops
 - 1 test T-shirt
 - n/2 pre-cut vinyl
 
-## Lesson plan
-
-Duration (mins)|Description
----------------|-----------------------------------------------
-5              |Introduction
-5              |Learners read the booklet
-15             |Demo of all steps
-35             |Do it, always have 1 learner at B and C
-15             |Break
-45             |Do it, always have 1 learner at B and C
-15             |Questions
