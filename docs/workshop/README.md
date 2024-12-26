@@ -24,6 +24,8 @@ Leo   |Teacher 3: Heat press
 
 ### Lesson plan
 
+Teachers will start preparing one hour earlier.
+
 The workshop is scheduled to take two hours, although
 most learners will finish quicker.
 
