@@ -9,6 +9,19 @@ tags:
 - Time: 18:00-20:00
 - Place: Uppsala Makerspace
 
+???- question "Is there more info?"
+
+    Not yet, it will be added later :-)
+
+## Preparation
+
+Teaching team:
+
+- Richel: coordinator
+- Enrico: Teacher 1
+- Angela: Teacher 2
+- Leo: Teacher 3
+
 ## Booklet sections
 
 No|Topic
