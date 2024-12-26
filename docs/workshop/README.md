@@ -32,7 +32,7 @@ most learners will finish quicker.
 Duration (mins)|Description
 ---------------|-----------------------------------------------
 5              |Introduction
-5              |Learners read the booklet
+5              |Learners read the booklet or website
 15             |Demo of all steps
 35             |Do it, always have 1 learner at B and C
 15             |Break
