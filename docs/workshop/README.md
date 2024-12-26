@@ -13,6 +13,21 @@ tags:
 
 ## For teachers
 
+Learning objectives:
+
+- Learners can install Inkcut
+- Learners can start Inkcut
+- Learners can set up the vinyl cutter
+- Learners can use the vinyl cutter
+- Learners can set up the heat press
+- Learners can use the vinyl press
+
+Non-goals:
+
+- Learners can design their own SVGs
+
+### Team
+
 This is the current teaching team:
 
 Person|Task
@@ -69,4 +84,6 @@ C |10,11        |Heat press, T-shirt, cut vinyl|Teacher 3
 - n laptops
 - 1 test T-shirt
 - n/2 pre-cut vinyl
+- post-its with queue numbers for vinyl cutter and heat press, e.g.
+  `V1`, `V2` and `H1`, `H2` etc...
 
