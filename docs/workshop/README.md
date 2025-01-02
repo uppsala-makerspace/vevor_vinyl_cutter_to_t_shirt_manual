@@ -10,6 +10,34 @@ tags:
 - Place: Uppsala Makerspace
 - Registration: not needed, just show up :-)
 - Max number of participants: unlimited
+- Preparation: none
+
+## Frequently asked questions
+
+### Don't I need to bring a T-shirt?
+
+No.
+
+We will use a testing T-shirt to make prints.
+
+### Can I bring and use my own T-shirt?
+
+Yes, at your own risk.
+
+### Don't I need to bring a picture that I want to print?
+
+No.
+
+We will use a simple known-to-work image to make prints,
+which is the logo of the Lördagskurser.
+
+### Can I bring and use my own image?
+
+Yes!
+
+However, if that image is not accepted by InkCut or is too complex,
+we will ask you to use the testing image instead, so that all
+learners can use the vinyl cutter.
 
 ## For teachers
 
