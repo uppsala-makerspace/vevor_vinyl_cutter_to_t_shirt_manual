@@ -5,12 +5,45 @@ tags:
 
 # Workshop
 
+!!! info "Learning objectives"
+
+    Learning objectives:
+
+    - Learners can install Inkcut
+    - Learners can start Inkcut
+    - Learners can set up the vinyl cutter
+    - Learners can use the vinyl cutter
+    - Learners can set up the heat press
+    - Learners can use the vinyl press
+
+    Non-goals:
+
+    - Learners can design their own SVGs
+
 - Date: February 7 February 2025
 - Time: 18:00-20:00
 - Place: Uppsala Makerspace
 - Registration: not needed, just show up :-)
 - Max number of participants: unlimited
 - Preparation: none
+
+In this workshop, you will learn how to use the vinyl cutter
+to cut out a design in vinyl and press it on a T-shirt.
+
+### Schedule
+
+The workshop is scheduled to take two hours, although
+most learners will finish quicker.
+
+Duration (mins)|Description
+---------------|-----------------------------------------------
+5              |Introduction
+5              |Learners read the booklet or website
+15             |Demo of all steps
+35             |Do it, always have 1 learner at B and C
+15             |Break
+45             |Do it, always have 1 learner at B and C
+15             |Questions
 
 ## Frequently asked questions
 
@@ -41,18 +74,9 @@ learners can use the vinyl cutter.
 
 ## For teachers
 
-Learning objectives:
+### Preparation
 
-- Learners can install Inkcut
-- Learners can start Inkcut
-- Learners can set up the vinyl cutter
-- Learners can use the vinyl cutter
-- Learners can set up the heat press
-- Learners can use the vinyl press
-
-Non-goals:
-
-- Learners can design their own SVGs
+Teachers will start preparing one hour earlier.
 
 ### Team
 
@@ -64,23 +88,6 @@ Richel|Coordinator
 Enrico|Teacher 1: Software installation
 Angela|Teacher 2: Vinyl cutter
 Leo   |Teacher 3: Heat press
-
-### Lesson plan
-
-Teachers will start preparing one hour earlier.
-
-The workshop is scheduled to take two hours, although
-most learners will finish quicker.
-
-Duration (mins)|Description
----------------|-----------------------------------------------
-5              |Introduction
-5              |Learners read the booklet or website
-15             |Demo of all steps
-35             |Do it, always have 1 learner at B and C
-15             |Break
-45             |Do it, always have 1 learner at B and C
-15             |Questions
 
 ### Booklet sections
 
