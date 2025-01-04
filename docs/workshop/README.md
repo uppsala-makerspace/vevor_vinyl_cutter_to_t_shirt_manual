@@ -30,7 +30,7 @@ tags:
 In this workshop, you will learn how to use the vinyl cutter
 to cut out a design in vinyl and press it on a T-shirt.
 
-### Schedule
+## Schedule
 
 The workshop is scheduled to take two hours, although
 most learners will finish quicker.
