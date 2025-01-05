@@ -24,6 +24,8 @@ tags:
 - Time: 18:00-20:00
 - Place: Uppsala Makerspace
 - Registration: not needed, just show up :-)
+- Language: Swedish if all can understand Swedish,
+  English or bilingual otherwise
 - Max number of participants: unlimited
 - Preparation: none
 
