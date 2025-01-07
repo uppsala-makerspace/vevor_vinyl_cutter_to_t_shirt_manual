@@ -19,6 +19,8 @@ tags:
     Non-goals:
 
     - Learners can design their own SVGs
+    - Learners get a T-shirt
+    - Learners use vinyl of any color
 
 - Date: February 7 February 2025
 - Time: 18:00-20:00
@@ -49,7 +51,15 @@ Duration (mins)|Description
 
 ## Frequently asked questions
 
-### Don't I need to bring a T-shirt?
+### What colors can I choose from?
+
+The ones we have. Currently, this is only white.
+
+### Can I bring my own vinyl?
+
+Yes, at your own risk.
+
+### Do I need to bring a T-shirt?
 
 No.
 
@@ -59,7 +69,7 @@ We will use a testing T-shirt to make prints.
 
 Yes, at your own risk.
 
-### Don't I need to bring a picture that I want to print?
+### Do I need to bring a picture that I want to print?
 
 No.
 
