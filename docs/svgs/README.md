@@ -17,6 +17,7 @@ Filename                                                  |Thumbnail            
 [2024_logo_Complex_Black.svg](2024_logo_Complex_Black.svg)|![2024_logo_Complex_Black_thumbnail.png](2024_logo_Complex_Black_thumbnail.png)|2024 UMS logo, complex
 [2024_logo_Simple_Black.svg](2024_logo_Simple_Black.svg)  |![2024_logo_Simple_Black_thumbnail.png](2024_logo_Simple_Black_thumbnail.png)  |2024 UMS logo, simple
 [2024_logo_Lazy_Black.svg](2024_logo_Lazy_Black.svg)      |![2024_logo_Lazy_Black_thumbnail.png](2024_logo_Lazy_Black_thumbnail.png)      |2024 UMS logo, lazy
+[oscu_logo.svg](oscu_logo.svg)                            |.                                                                              |Open Science Community Uppsala logo
 [UMS_logo_18.svg](UMS_logo_18.svg)                        |![UMS_logo_18_thumbnail.png](UMS_logo_18_thumbnail.png)                        |2014 UMS logo, complex
 [UMS_logo_18_no_letters.svg](UMS_logo_18_no_letters.svg)  |![UMS_logo_18_no_letters_thumbnail.png](UMS_logo_18_no_letters_thumbnail.png)  |2014 UMS logo, simple
 [UMS_logo_18_lite.svg](UMS_logo_18_lite.svg)              |![UMS_logo_18_lite_thumbnail.png](UMS_logo_18_lite_thumbnail.png)        |2014 UMS logo, lazy
