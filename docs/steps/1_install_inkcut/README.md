@@ -30,7 +30,7 @@ On a Linux computer, start a terminal:
 
     ![An Ubuntu dekstop when the meta key is pressed](press_meta_key.png)
 
-- Type terminal
+- Type `terminal`
 
 ???- question "How does this look like?"
 
