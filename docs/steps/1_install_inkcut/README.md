@@ -127,7 +127,7 @@ Well done!
 
 ???- question "How does that look like?"
 
-![First command done](desktop_with_terminal_and_first_command_done.png)
+    ![First command done](desktop_with_terminal_and_first_command_done.png)
 
 Now repeat with this command:
 
