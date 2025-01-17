@@ -9,7 +9,7 @@ tags:
 
 ???- question "What are the technical reasons behind this setup?"
 
-    See [my notes](install_inkcut_notes.md) for details.
+    See [my notes](../install_inkcut_notes.md) for details.
 
 Inkcut is a program to send things to cut to the vinyl cutter.
 It works under Linux, Mac and Windows.
