@@ -68,8 +68,6 @@ sudo apt-get install python3-pip python3-pyqt5 python3-setuptools
     ![First command copy-pasted to the desktop](desktop_with_terminal_and_first_command.png)
 
 
-
-
 Probably you will need to type a password and press enter.
 
 ???- question "How does that look like?"
