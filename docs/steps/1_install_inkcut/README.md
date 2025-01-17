@@ -67,7 +67,6 @@ sudo apt-get install python3-pip python3-pyqt5 python3-setuptools
 
     ![First command copy-pasted to the desktop](desktop_with_terminal_and_first_command.png)
 
-
 Probably you will need to type a password and press enter.
 
 ???- question "How does that look like?"
@@ -90,6 +89,7 @@ You will see a lot of programs being installed.
 ???- question "How does that look like?"
 
     It will look similar to this:
+
     ```bash
     ums@richel-N141CU:~$ sudo apt-get install python3-pip python3-pyqt5 python3-setuptools
     [sudo] password for ums: 
@@ -202,6 +202,9 @@ Install the Inkcut and PyQt5 Python packages in the virtual environment"
 ???- question "How does that look like?"
 
     It will look similar to this:
+
+
+    <!-- markdownlint-disable MD013 --><!-- Long lines, as output is displayed as-is -->
 
     ```bash
     ums@richel-N141CU:~$ ~/inkcut_venv/bin/pip install inkcut PyQt5
@@ -426,6 +429,8 @@ Install the Inkcut and PyQt5 Python packages in the virtual environment"
     Installing collected packages: wcwidth, pyserial, PyQt5-Qt5, pycups, pure-eval, ptyprocess, typing-extensions, traitlets, tornado, six, setuptools, pyzmq, PyQt5-sip, pygments, psutil, prompt_toolkit, platformdirs, pexpect, pegen, parso, packaging, numpy, nest-asyncio, lxml, kiwisolver, jsonpickle, idna, executing, decorator, debugpy, constantly, bytecode, automat, attrs, atom, asttokens, zope-interface, stack_data, qtpy, python-dateutil, pyqtgraph, PyQt5, matplotlib-inline, jupyter-core, jedi, incremental, hyperlink, enaml, comm, twisted, jupyter-client, ipython, enamlx, qt-reactor, ipykernel, qtconsole, inkcut
     Successfully installed PyQt5-5.15.11 PyQt5-Qt5-5.15.16 PyQt5-sip-12.16.1 asttokens-3.0.0 atom-0.11.0 attrs-24.3.0 automat-24.8.1 bytecode-0.16.0 comm-0.2.2 constantly-23.10.4 debugpy-1.8.11 decorator-5.1.1 enaml-0.18.0 enamlx-0.6.4 executing-2.1.0 hyperlink-21.0.0 idna-3.10 incremental-24.7.2 inkcut-2.1.5 ipykernel-6.29.5 ipython-8.31.0 jedi-0.19.2 jsonpickle-4.0.1 jupyter-client-8.6.3 jupyter-core-5.7.2 kiwisolver-1.4.8 lxml-5.3.0 matplotlib-inline-0.1.7 nest-asyncio-1.6.0 numpy-2.2.1 packaging-24.2 parso-0.8.4 pegen-0.3.0 pexpect-4.9.0 platformdirs-4.3.6 prompt_toolkit-3.0.48 psutil-6.1.1 ptyprocess-0.7.0 pure-eval-0.2.3 pycups-2.0.4 pygments-2.19.1 pyqtgraph-0.13.7 pyserial-3.5 python-dateutil-2.9.0.post0 pyzmq-26.2.0 qt-reactor-0.6.1 qtconsole-5.6.1 qtpy-2.4.2 setuptools-75.8.0 six-1.17.0 stack_data-0.6.3 tornado-6.4.2 traitlets-5.14.3 twisted-24.11.0 typing-extensions-4.12.2 wcwidth-0.2.13 zope-interface-7.2
     ```
+
+    <!-- markdownlint-enable MD013 -->
 
 ## 1.5 Start Inkcut
 
