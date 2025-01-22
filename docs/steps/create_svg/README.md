@@ -1,7 +1,6 @@
 # How to create an SVG for InkCut
 
 
-
 InkCut can only load SVGs.
 
 ???- question "What is an SVG?"

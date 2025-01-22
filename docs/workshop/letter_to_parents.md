@@ -1,6 +1,6 @@
 # Letter to parents
 
-Dear parents/caretakers, 
+Dear parents/caretakers,
 
 You can be proud on your son/daughter: he/she
 volunteered in teaching a workshop on using
