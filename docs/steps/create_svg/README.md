@@ -8,7 +8,8 @@ InkCut can only load SVGs.
     A type of image that consists out of lines,
     instead out of pixels.
 
-    SVG is an abbreviation of 'Scalable Vector Graphics'.
+    SVG is an abbreviation of 'Scalable Vector Graphics':
+
     - 'Scalable': one can zoom in/out infinitely
     - 'Vector': more-or-less a line
     - 'Graphics': it is something graphical
