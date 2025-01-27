@@ -5,9 +5,9 @@ tags:
 
 # Workshop
 
-!!! info "Learning objectives"
+!!! info "Learning outcomes"
 
-    Learning objectives:
+    Learning outcomes:
 
     - Learners can install Inkcut
     - Learners can start Inkcut
