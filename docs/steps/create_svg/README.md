@@ -145,5 +145,4 @@ and load it into InkCut successfully!
 
 ## Videos
 
-- [YouTube video 'How to convert text to path'](https://www.youtube.com/watch?v=trmR5S1k8Cg)
 - [YouTube video 'How to convert a PNG to SVG'](https://www.youtube.com/watch?v=peJcuRImCmY)
