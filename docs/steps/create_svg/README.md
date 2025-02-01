@@ -1,12 +1,15 @@
 # How to create an SVG for InkCut
 
-
+There are many ways images are saved to a file.
 InkCut can only load SVGs.
 
 ???- question "What is an SVG?"
 
     A type of image that consists out of lines,
+    e.g. 'A line from (0,0) to (10,20)',
     instead out of pixels.
+    Due to this, you can zoom in indefinitly
+    on such an image and the lines will always be sharp.
 
     SVG is an abbreviation of 'Scalable Vector Graphics':
 
@@ -22,6 +25,20 @@ InkCut can only load SVGs.
 
 One cannot simply upload a 'regular' image (such as PNG or JPG)
 to InkCut: these must be converted to an SVG first.
+
+???- question "What is an PNG?"
+
+    A type of image that consists out of pixel values,
+    e.g. '10 red pixels, then 5 white' pixels.
+    Due to this, when you zoom in on such an image,
+    you can see the pixels being square.
+
+???- question "What is a JPG?"
+
+    A type of image that consists out of wavelengths;
+    this is hard to describe simply.
+    When you zoom in on such an image,
+    you can see the pixels being square.
 
 ## Converting a 'regular' image (such as PNG or JPG) to SVG
 
@@ -125,3 +142,8 @@ and load it into InkCut successfully!
     It looks like this:
 
     ![InkCut has loaded a traced PNG](inkscape_loads_traced_png.png)
+
+## Videos
+
+- [YouTube video 'How to convert text to path'](https://www.youtube.com/watch?v=trmR5S1k8Cg)
+- [YouTube video 'How to convert a PNG to SVG'](https://www.youtube.com/watch?v=peJcuRImCmY)
