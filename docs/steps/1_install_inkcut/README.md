@@ -175,6 +175,52 @@ Create a (mandatory!) virtual environment for Inkcut:
 python3 -m venv ~/inkcut_venv
 ```
 
+???- question "It gives the error 'The virtual environment was not created successfully'"
+
+    This is the full errr message:
+
+    ```text
+    ums@rikthyvel:~$ python3 -m venv ~/inkcut_venv
+    The virtual environment was not created successfully because ensurepip is not
+    available.  On Debian/Ubuntu systems, you need to install the python3-venv
+    package using the following command.
+
+        apt install python3.12-venv
+
+    You may need to use sudo with that command.  After installing the python3-venv
+    package, recreate your virtual environment.
+
+    Failing command: /home/ums/inkcut_venv/bin/python3
+    ```
+
+    The solution can be found in the text:
+
+    ```text
+    sudo apt install python3.12-venv
+    ```
+
+    This is how that looks like:
+
+    ```text
+    ums@rikthyvel:~$ sudo apt install python3.12-venv
+    Reading package lists... Done
+    Building dependency tree... Done
+    Reading state information... Done
+    The following package was automatically installed and is no longer required:
+      python3-netifaces
+    Use 'sudo apt autoremove' to remove it.
+    The following additional packages will be installed:
+      python3-pip-whl python3-setuptools-whl
+    The following NEW packages will be installed:
+      python3-pip-whl python3-setuptools-whl python3.12-venv
+    0 upgraded, 3 newly installed, 0 to remove and 70 not upgraded.
+    Need to get 2,424 kB of archives.
+    After this operation, 2,771 kB of additional disk space will be used.
+    Do you want to continue? [Y/n] y
+    ```
+
+    After this, try again.
+
 ???- question "Huh? It says nothing!"
 
     Correct! This is 'The Golden Rule of Silence':
