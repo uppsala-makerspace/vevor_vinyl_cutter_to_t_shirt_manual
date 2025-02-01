@@ -20,6 +20,7 @@ nav:
     - 11. Peel the vinyl: steps/11_peel_vinyl.md
     - 12. Transfer vinyl to t-shirt: steps/12_transfer_vinyl_to_t_shirt.md
     - Create an SVG: steps/create_svg/README.md
+    - Install Inkscape: steps/install_inkscape.md
     - Use text: steps/use_text.md
   - Misc:
     - Code of conduct: CODE_OF_CONDUCT.md
