@@ -80,7 +80,7 @@ which is the logo of the Lördagskurser.
 
 Yes!
 
-However, if that image is not accepted by InkCut or is too complex,
+However, if that image is not accepted by Inkcut or is too complex,
 we will ask you to use the testing image instead, so that all
 learners can use the vinyl cutter.
 
@@ -89,7 +89,7 @@ learners can use the vinyl cutter.
 Yes! It can be used for:
 
 - All: using Inkscape to create images
-- Linux-only: using InkCut to communicate with the vinyl cutter
+- Linux-only: using Inkcut to communicate with the vinyl cutter
 
 ## For teachers
 

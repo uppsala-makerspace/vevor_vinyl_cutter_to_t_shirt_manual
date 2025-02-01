@@ -159,7 +159,6 @@ superguide
 PDFs
 pdf
 Lördagskurser
-InkCut
 Ctrl
 oscu
 shushanti

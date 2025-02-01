@@ -1,7 +1,7 @@
-# How to create an SVG for InkCut
+# How to create an SVG for Inkcut
 
 There are many ways images are saved to a file.
-InkCut can only load SVGs.
+Inkcut can only load SVGs.
 
 ???- question "What is an SVG?"
 
@@ -19,12 +19,12 @@ InkCut can only load SVGs.
 
 ???- question "How does that look like?"
 
-    Here we InkCut displaying on the SVGs in folder:
+    Here we Inkcut displaying on the SVGs in folder:
 
-    ![InkCut can only load SVGs](inkcut_can_only_load_svgs.png)
+    ![Inkcut can only load SVGs](inkcut_can_only_load_svgs.png)
 
 One cannot simply upload a 'regular' image (such as PNG or JPG)
-to InkCut: these must be converted to an SVG first.
+to Inkcut: these must be converted to an SVG first.
 
 ???- question "What is an PNG?"
 
@@ -98,13 +98,13 @@ Give your SVG a name and save it.
 
     ![Saving your ](inkscape_save_bad_png.png)
 
-What you don't know yet: this SVG cannot be loaded in InkCut.
+What you don't know yet: this SVG cannot be loaded in Inkcut.
 
-???- question "How does that look like in InkCut?"
+???- question "How does that look like in Inkcut?"
 
-    Here is how this would look like in InkCut:
+    Here is how this would look like in Inkcut:
 
-    ![InkCut loaded the bad PNG](inkcut_loaded_bad_png.png)
+    ![Inkcut loaded the bad PNG](inkcut_loaded_bad_png.png)
 
     As you can see: only white
 
@@ -135,13 +135,13 @@ The image *looks* the same, but is not.
     ![Applied the trace](inkscape_trace_click_applied.png)
 
 However, you can save the image as SVG
-and load it into InkCut successfully!
+and load it into Inkcut successfully!
 
-???- question "How does it look like in InkCut?"
+???- question "How does it look like in Inkcut?"
 
     It looks like this:
 
-    ![InkCut has loaded a traced PNG](inkscape_loads_traced_png.png)
+    ![Inkcut has loaded a traced PNG](inkscape_loads_traced_png.png)
 
 ## Videos
 

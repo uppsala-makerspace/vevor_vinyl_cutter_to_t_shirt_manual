@@ -469,8 +469,8 @@ Now you can start `inkcut` with:
     2025-01-15 17:52:56,291 | INFO    | inkcut | Loading plugin inkcut.device
     ```
 
-    Then InkCut will start:
+    Then Inkcut will start:
 
     ![inkcut in action](start_inkcut.png)
 
-InkCut is now started. Well done!
+Inkcut is now started. Well done!

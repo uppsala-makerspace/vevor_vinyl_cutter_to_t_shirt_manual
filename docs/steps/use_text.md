@@ -2,9 +2,9 @@
 
 One can use Inkscape to create SVGs.
 It is easy to add text in Inkscape.
-However, text will not show up in InkCut!
+However, text will not show up in Inkcut!
 
-To make text show up in InkCut, the text
+To make text show up in Inkcut, the text
 must be converted to a path.
 
 To do so:
