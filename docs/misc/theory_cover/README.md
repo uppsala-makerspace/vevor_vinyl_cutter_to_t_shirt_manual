@@ -1,6 +1,6 @@
 # Vinyl cutter guide
 
-![Our vinyl cutter](vevor_vinyl_cutter_isometric.jpg)
+![Our vinyl cutter](vevor_vinyl_cutter_isometric.png)
 
 ## Theory
 
