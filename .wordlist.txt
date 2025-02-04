@@ -168,3 +168,5 @@ Inkscape
 JPG
 kr
 WhatsApp
+inkscape
+

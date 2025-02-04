@@ -31,7 +31,7 @@ tags:
 - Max number of participants: unlimited
 - Preparation: none
 - Optional preparation: bring a laptop, bring a T-shirt,
-  bring an SVG (whatever that is) image 
+  bring an SVG (whatever that is) image
 
 In this workshop, you will learn how to use the vinyl cutter
 to cut out a design in vinyl and press it on a T-shirt.
