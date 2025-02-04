@@ -10,7 +10,7 @@ Get suitable vinyl
 
 Suitable foil looks like this:
 
-![Transfer foil ready for transfer](transfer_ready.jpg)
+![Transfer foil ready for transfer](transfer_ready.png)
 
 - The foil feels smoother than a sticker ('klistermärke')
 - The foil is shinier than a sticker
