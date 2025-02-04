@@ -21,11 +21,10 @@ fi
 # We are in the 'scripts' folder
 
 cp ../steps/*.* $build_folder
-cp ../steps/1_install_inkcut $build_folder
+cp ../steps/1_install_inkcut/*.* $build_folder
 cp ../misc/foreword/*.* $build_folder
-cp ../misc/safety_warning/*.* $build_folder
 
-# Newline between TOC and foreworkd
+# Newline between TOC and foreword
 echo " " > $build_folder/README.md # Start from scratch
 echo "\pagebreak" >> $build_folder/README.md
 echo " " >> $build_folder/README.md
