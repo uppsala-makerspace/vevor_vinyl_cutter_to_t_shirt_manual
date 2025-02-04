@@ -23,13 +23,15 @@ tags:
     - Learners use vinyl of any color
 
 - Date: February 7 February 2025
-- Time: 18:00-20:00
+- Time: 18:00 (sharp!) to 20:00, door open at 17:45
 - Place: Uppsala Makerspace
 - Registration: not needed, just show up :-)
 - Language: Swedish if all can understand Swedish,
   English or bilingual otherwise
 - Max number of participants: unlimited
 - Preparation: none
+- Optional preparation: bring a laptop, bring a T-shirt,
+  bring an SVG (whatever that is) image 
 
 In this workshop, you will learn how to use the vinyl cutter
 to cut out a design in vinyl and press it on a T-shirt.
@@ -39,10 +41,18 @@ to cut out a design in vinyl and press it on a T-shirt.
 The workshop is scheduled to take two hours, although
 most learners will finish quicker.
 
+Time |Description
+-----|-----------
+17:00|Preparation: reception desk, tables with Linux laptops
+17:45|Reception
+18:00|Start
+19:00|Break
+20:00|Done
+
 Duration (mins)|Description
 ---------------|-----------------------------------------------
 5              |Introduction
-5              |Learners read the booklet or website
+10             |Learners read the booklet or website
 15             |Demo of all steps
 35             |Do it, always have 1 learner at B and C
 15             |Break
@@ -128,9 +138,9 @@ No|Topic
 
 No|Topic numbers|Needs                         |Teacher(s)
 --|-------------|------------------------------|--------
-A |1,2          |Laptop                        |Teacher 1 + Richel
-B |5,6,7,8,9    |Vinyl cutter, vinyl           |Teacher 2
-C |10,11        |Heat press, T-shirt, cut vinyl|Teacher 3
+A |1,2          |Laptop                        |Enrico + Richel
+B |5,6,7,8,9    |Vinyl cutter, vinyl           |Angela
+C |10,11        |Heat press, T-shirt, cut vinyl|Leo
 
 ### Materials to prepare
 
