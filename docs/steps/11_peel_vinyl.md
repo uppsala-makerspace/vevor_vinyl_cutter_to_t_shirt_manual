@@ -15,6 +15,6 @@ You now have vinyl with your pattern cut out.
 Remove all the vinyl that should not be on the T-shirt.
 Use your favorite tools for this.
 
-???- question "How does that look like?"
+![Vinyl after peeling](transfer_ready.png)
 
-    ![After peeling](transfer_ready.jpg)
+> Vinyl after peeling

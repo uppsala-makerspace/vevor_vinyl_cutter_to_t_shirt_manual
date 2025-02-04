@@ -45,10 +45,8 @@ This is especially important for letters.
 
 ## 9.4 Start the cut
 
-Click on 'Device | Send to device' to start the vinyl cutter:
+Click on 'Device | Send to device' to start the vinyl cutter.
 
-???- question "How does that look like?"
+![Click on 'Device | Send to device' to start the vinyl cutter](inkcut_send_to_device.png)
 
-    ![Click on 'Device | Send to device' to start the vinyl cutter](inkcut_send_to_device.png)
-
-    > Click on 'Device | Send to device' to start the vinyl cutter
+> Click on 'Device | Send to device' to start the vinyl cutter
