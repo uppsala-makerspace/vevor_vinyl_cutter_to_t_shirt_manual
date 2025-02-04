@@ -278,7 +278,7 @@ Install the Inkcut and PyQt5 Python packages in the virtual environment"
       Downloading enaml-0.18.0-cp312-cp312-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (13 kB)
     Collecting pycups (from inkcut)
       Downloading pycups-2.0.4.tar.gz (65 kB)
-         ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 65.1/65.1 kB 3.4 MB/s eta 0:00:00
+         ======================================== 65.1/65.1 kB 3.4 MB/s eta 0:00:00
       Installing build dependencies ... done
       Getting requirements to build wheel ... done
       Preparing metadata (pyproject.toml) ... done
@@ -296,7 +296,7 @@ Install the Inkcut and PyQt5 Python packages in the virtual environment"
       Downloading pegen-0.3.0-py3-none-any.whl.metadata (11 kB)
     Collecting numpy>=1.22.0 (from pyqtgraph->inkcut)
       Downloading numpy-2.2.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (62 kB)
-         ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 62.0/62.0 kB 3.4 MB/s eta 0:00:00
+         ======================================== 62.0/62.0 kB 3.4 MB/s eta 0:00:00
     Collecting qtpy (from qt-reactor->inkcut)
       Downloading QtPy-2.4.2-py3-none-any.whl.metadata (12 kB)
     Collecting traitlets!=5.2.1,!=5.2.2 (from qtconsole->inkcut)
@@ -325,7 +325,7 @@ Install the Inkcut and PyQt5 Python packages in the virtual environment"
       Downloading typing_extensions-4.12.2-py3-none-any.whl.metadata (3.0 kB)
     Collecting zope-interface>=5 (from twisted->inkcut)
       Downloading zope.interface-7.2-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (44 kB)
-         ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 44.4/44.4 kB 2.2 MB/s eta 0:00:00
+         ======================================== 44.4/44.4 kB 2.2 MB/s eta 0:00:00
     Collecting idna>=2.5 (from hyperlink>=17.1.1->twisted->inkcut)
       Downloading idna-3.10-py3-none-any.whl.metadata (10 kB)
     Collecting setuptools>=61.0 (from incremental>=24.7.0->twisted->inkcut)
@@ -375,95 +375,95 @@ Install the Inkcut and PyQt5 Python packages in the virtual environment"
     Collecting pure-eval (from stack_data->ipython>=7.23.1->ipykernel>=4.1->qtconsole->inkcut)
       Downloading pure_eval-0.2.3-py3-none-any.whl.metadata (6.3 kB)
     Downloading inkcut-2.1.5-py2.py3-none-any.whl (1.2 MB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 3.5 MB/s eta 0:00:00
+       ======================================== 1.2/1.2 MB 3.5 MB/s eta 0:00:00
     Downloading PyQt5-5.15.11-cp38-abi3-manylinux_2_17_x86_64.whl (8.2 MB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 8.2/8.2 MB 19.2 MB/s eta 0:00:00
+       ======================================== 8.2/8.2 MB 19.2 MB/s eta 0:00:00
     Downloading enaml-0.18.0-cp312-cp312-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.2 MB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 10.1 MB/s eta 0:00:00
+       ======================================== 1.2/1.2 MB 10.1 MB/s eta 0:00:00
     Downloading enamlx-0.6.4-py2.py3-none-any.whl (47 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 47.9/47.9 kB 2.2 MB/s eta 0:00:00
+       ======================================== 47.9/47.9 kB 2.2 MB/s eta 0:00:00
     Downloading PyQt5_Qt5-5.15.16-py3-none-manylinux2014_x86_64.whl (59.9 MB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 59.9/59.9 MB 10.3 MB/s eta 0:00:00
+       ======================================== 59.9/59.9 MB 10.3 MB/s eta 0:00:00
     Downloading PyQt5_sip-12.16.1-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.whl (281 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 281.6/281.6 kB 11.2 MB/s eta 0:00:00
+       ======================================== 281.6/281.6 kB 11.2 MB/s eta 0:00:00
     Downloading pyserial-3.5-py2.py3-none-any.whl (90 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 90.6/90.6 kB 5.4 MB/s eta 0:00:00
+       ======================================== 90.6/90.6 kB 5.4 MB/s eta 0:00:00
     Downloading jsonpickle-4.0.1-py3-none-any.whl (46 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 46.2/46.2 kB 2.9 MB/s eta 0:00:00
+       ======================================== 46.2/46.2 kB 2.9 MB/s eta 0:00:00
     Downloading lxml-5.3.0-cp312-cp312-manylinux_2_28_x86_64.whl (4.9 MB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.9/4.9 MB 24.7 MB/s eta 0:00:00
+       ======================================== 4.9/4.9 MB 24.7 MB/s eta 0:00:00
     Downloading pyqtgraph-0.13.7-py3-none-any.whl (1.9 MB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.9/1.9 MB 19.4 MB/s eta 0:00:00
+       ======================================== 1.9/1.9 MB 19.4 MB/s eta 0:00:00
     Downloading qt_reactor-0.6.1-py2.py3-none-any.whl (7.5 kB)
     Downloading qtconsole-5.6.1-py3-none-any.whl (125 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 125.0/125.0 kB 7.2 MB/s eta 0:00:00
+       ======================================== 125.0/125.0 kB 7.2 MB/s eta 0:00:00
     Downloading twisted-24.11.0-py3-none-any.whl (3.2 MB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.2/3.2 MB 21.9 MB/s eta 0:00:00
+       ======================================== 3.2/3.2 MB 21.9 MB/s eta 0:00:00
     Downloading atom-0.11.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.5 MB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.5/1.5 MB 8.7 MB/s eta 0:00:00
+       ======================================== 1.5/1.5 MB 8.7 MB/s eta 0:00:00
     Downloading attrs-24.3.0-py3-none-any.whl (63 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 63.4/63.4 kB 3.2 MB/s eta 0:00:00
+       ======================================== 63.4/63.4 kB 3.2 MB/s eta 0:00:00
     Downloading Automat-24.8.1-py3-none-any.whl (42 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 42.6/42.6 kB 2.6 MB/s eta 0:00:00
+       ======================================== 42.6/42.6 kB 2.6 MB/s eta 0:00:00
     Downloading bytecode-0.16.0-py3-none-any.whl (41 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 41.6/41.6 kB 2.3 MB/s eta 0:00:00
+       ======================================== 41.6/41.6 kB 2.3 MB/s eta 0:00:00
     Downloading constantly-23.10.4-py3-none-any.whl (13 kB)
     Downloading hyperlink-21.0.0-py2.py3-none-any.whl (74 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 74.6/74.6 kB 3.7 MB/s eta 0:00:00
+       ======================================== 74.6/74.6 kB 3.7 MB/s eta 0:00:00
     Downloading incremental-24.7.2-py3-none-any.whl (20 kB)
     Downloading ipykernel-6.29.5-py3-none-any.whl (117 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 117.2/117.2 kB 7.0 MB/s eta 0:00:00
+       ======================================== 117.2/117.2 kB 7.0 MB/s eta 0:00:00
     Downloading jupyter_client-8.6.3-py3-none-any.whl (106 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 106.1/106.1 kB 5.5 MB/s eta 0:00:00
+       ======================================== 106.1/106.1 kB 5.5 MB/s eta 0:00:00
     Downloading jupyter_core-5.7.2-py3-none-any.whl (28 kB)
     Downloading kiwisolver-1.4.8-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.5 MB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.5/1.5 MB 17.2 MB/s eta 0:00:00
+       ======================================== 1.5/1.5 MB 17.2 MB/s eta 0:00:00
     Downloading numpy-2.2.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (16.1 MB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.1/16.1 MB 19.6 MB/s eta 0:00:00
+       ======================================== 16.1/16.1 MB 19.6 MB/s eta 0:00:00
     Downloading pegen-0.3.0-py3-none-any.whl (35 kB)
     Downloading QtPy-2.4.2-py3-none-any.whl (95 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 95.2/95.2 kB 4.7 MB/s eta 0:00:00
+       ======================================== 95.2/95.2 kB 4.7 MB/s eta 0:00:00
     Downloading traitlets-5.14.3-py3-none-any.whl (85 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 85.4/85.4 kB 5.0 MB/s eta 0:00:00
+       ======================================== 85.4/85.4 kB 5.0 MB/s eta 0:00:00
     Downloading typing_extensions-4.12.2-py3-none-any.whl (37 kB)
     Downloading zope.interface-7.2-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (264 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 264.7/264.7 kB 12.7 MB/s eta 0:00:00
+       ======================================== 264.7/264.7 kB 12.7 MB/s eta 0:00:00
     Downloading packaging-24.2-py3-none-any.whl (65 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 65.5/65.5 kB 3.9 MB/s eta 0:00:00
+       ======================================== 65.5/65.5 kB 3.9 MB/s eta 0:00:00
     Downloading pygments-2.19.1-py3-none-any.whl (1.2 MB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 18.9 MB/s eta 0:00:00
+       ======================================== 1.2/1.2 MB 18.9 MB/s eta 0:00:00
     Downloading comm-0.2.2-py3-none-any.whl (7.2 kB)
     Downloading debugpy-1.8.11-cp312-cp312-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (4.2 MB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.2/4.2 MB 13.6 MB/s eta 0:00:00
+       ======================================== 4.2/4.2 MB 13.6 MB/s eta 0:00:00
     Downloading idna-3.10-py3-none-any.whl (70 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 70.4/70.4 kB 2.3 MB/s eta 0:00:00
+       ======================================== 70.4/70.4 kB 2.3 MB/s eta 0:00:00
     Downloading ipython-8.31.0-py3-none-any.whl (821 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 821.6/821.6 kB 16.4 MB/s eta 0:00:00
+       ======================================== 821.6/821.6 kB 16.4 MB/s eta 0:00:00
     Downloading matplotlib_inline-0.1.7-py3-none-any.whl (9.9 kB)
     Downloading platformdirs-4.3.6-py3-none-any.whl (18 kB)
     Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 229.9/229.9 kB 8.6 MB/s eta 0:00:00
+       ======================================== 229.9/229.9 kB 8.6 MB/s eta 0:00:00
     Downloading pyzmq-26.2.0-cp312-cp312-manylinux_2_28_x86_64.whl (860 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 860.6/860.6 kB 17.2 MB/s eta 0:00:00
+       ======================================== 860.6/860.6 kB 17.2 MB/s eta 0:00:00
     Using cached setuptools-75.8.0-py3-none-any.whl (1.2 MB)
     Downloading tornado-6.4.2-cp38-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (437 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 437.2/437.2 kB 13.2 MB/s eta 0:00:00
+       ======================================== 437.2/437.2 kB 13.2 MB/s eta 0:00:00
     Downloading nest_asyncio-1.6.0-py3-none-any.whl (5.2 kB)
     Downloading psutil-6.1.1-cp36-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (287 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 287.5/287.5 kB 12.3 MB/s eta 0:00:00
+       ======================================== 287.5/287.5 kB 12.3 MB/s eta 0:00:00
     Downloading jedi-0.19.2-py2.py3-none-any.whl (1.6 MB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.6/1.6 MB 12.2 MB/s eta 0:00:00
+       ======================================== 1.6/1.6 MB 12.2 MB/s eta 0:00:00
     Downloading pexpect-4.9.0-py2.py3-none-any.whl (63 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 63.8/63.8 kB 2.8 MB/s eta 0:00:00
+       ======================================== 63.8/63.8 kB 2.8 MB/s eta 0:00:00
     Downloading prompt_toolkit-3.0.48-py3-none-any.whl (386 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 386.6/386.6 kB 6.4 MB/s eta 0:00:00
+       ======================================== 386.6/386.6 kB 6.4 MB/s eta 0:00:00
     Downloading six-1.17.0-py2.py3-none-any.whl (11 kB)
     Downloading decorator-5.1.1-py3-none-any.whl (9.1 kB)
     Downloading stack_data-0.6.3-py3-none-any.whl (24 kB)
     Downloading asttokens-3.0.0-py3-none-any.whl (26 kB)
     Downloading executing-2.1.0-py2.py3-none-any.whl (25 kB)
     Downloading parso-0.8.4-py2.py3-none-any.whl (103 kB)
-       ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 103.7/103.7 kB 4.9 MB/s eta 0:00:00
+       ======================================== 103.7/103.7 kB 4.9 MB/s eta 0:00:00
     Downloading ptyprocess-0.7.0-py2.py3-none-any.whl (13 kB)
     Downloading pure_eval-0.2.3-py3-none-any.whl (11 kB)
     Downloading wcwidth-0.2.13-py2.py3-none-any.whl (34 kB)
