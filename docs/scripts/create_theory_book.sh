@@ -21,6 +21,7 @@ fi
 # We are in the 'scripts' folder
 
 cp ../steps/*.* $build_folder
+cp ../steps/1_install_inkcut $build_folder
 cp ../misc/foreword/*.* $build_folder
 cp ../misc/safety_warning/*.* $build_folder
 
@@ -33,68 +34,51 @@ cat ../misc/foreword/README.md >> $build_folder/README.md
 
 # echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
-cat ../misc/safety_warning/README.md >> $build_folder/README.md
+cat ../steps/1_install_inkcut/README.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
-
-cat ../steps/get_material.md >> $build_folder/README.md
-
-echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
-
-cat ../steps/start_ventilation.md >> $build_folder/README.md
+cat ../steps/2_setup_inkcut.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
-cat ../steps/power_on_laser_cutter.md >> $build_folder/README.md
+cat ../steps/3_get_t_shirts.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
-cat ../steps/start_computer.md >> $build_folder/README.md
+cat ../steps/4_get_vinyl.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
-cat ../steps/start_lightburn.md >> $build_folder/README.md
+cat ../steps/5_connect_vinyl_cutter.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
-cat ../steps/position_material.md >> $build_folder/README.md
+cat ../steps/6_setup_vinyl_cutter.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
-cat ../steps/setup_laser_physically.md >> $build_folder/README.md
+cat ../steps/7_place_foil.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
-cat ../steps/setup_laser_in_lightburn.md >> $build_folder/README.md
+cat ../steps/8_setup_inkcut_connection.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
-cat ../steps/load_image.md >> $build_folder/README.md
+cat ../steps/9_use_inkcut.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
-cat ../steps/setup_lightburn.md >> $build_folder/README.md
+cat ../steps/10_setup_heat_press.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
-cat ../steps/close_enclosure.md >> $build_folder/README.md
+cat ../steps/11_peel_vinyl.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
-cat ../steps/start_laser.md >> $build_folder/README.md
-
-echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
-
-cat ../steps/turn_off_laser.md >> $build_folder/README.md
-
-echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
-
-cat ../steps/turn_off_computer.md >> $build_folder/README.md
-
-echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
-
-cat ../steps/turn_off_ventilation.md >> $build_folder/README.md
+cat ../steps/12_transfer_vinyl_to_t_shirt.md >> $build_folder/README.md
 
 Rscript -e 'mkdocs2md::convert_file_to_markdown("build/README.md", "build/README.md")'
 
