@@ -79,7 +79,7 @@ echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.m
 
 cat ../steps/12_transfer_vinyl_to_t_shirt.md >> $build_folder/README.md
 
-Rscript -e 'mkdocs2md::convert_file_to_markdown("build/README.md", "build/README.md")'
+Rscript -e 'mkdocs2md::convert_file_to_markdown("build/README.md", "build/README.md", keep_tags = FALSE)'
 
 cp guide_style.theme $build_folder
 
