@@ -44,20 +44,11 @@ most learners will finish quicker.
 Time |Description
 -----|-----------
 17:00|Preparation: reception desk, tables with Linux laptops
-17:45|Reception
+17:45|Reception open, talk to guests
 18:00|Start
 19:00|Break
+19:15|Continue
 20:00|Done
-
-Duration (mins)|Description
----------------|-----------------------------------------------
-5              |Introduction
-10             |Learners read the booklet or website
-15             |Demo of all steps
-35             |Do it, always have 1 learner at B and C
-15             |Break
-45             |Do it, always have 1 learner at B and C
-15             |Questions
 
 ## Frequently asked questions
 
@@ -77,7 +68,7 @@ We will use a testing T-shirt to make prints.
 
 ### Can I bring and use my own T-shirt?
 
-Yes, at your own risk.
+Yes.
 
 ### Do I need to bring a picture that I want to print?
 
@@ -88,7 +79,7 @@ which is the logo of the Lördagskurser.
 
 ### Can I bring and use my own image?
 
-Yes!
+Yes.
 
 However, if that image is not accepted by Inkcut or is too complex,
 we will ask you to use the testing image instead, so that all
@@ -96,7 +87,9 @@ learners can use the vinyl cutter.
 
 ### Can I bring my own laptop?
 
-Yes! It can be used for:
+Yes.
+
+It can be used for:
 
 - All: using Inkscape to create images
 - Linux-only: using Inkcut to communicate with the vinyl cutter
@@ -114,7 +107,7 @@ This is the current teaching team:
 Person|Task
 ------|-----------
 Richel|Coordinator
-Enrico|Teacher 1: Software installation
+Enrico|Teacher 1: Software
 Angela|Teacher 2: Vinyl cutter
 Leo   |Teacher 3: Heat press
 
@@ -147,7 +140,34 @@ C |10,11        |Heat press, T-shirt, cut vinyl|Leo
 - n booklets
 - n laptops
 - 1 test T-shirt
-- n/2 pre-cut vinyl
-- post-its with queue numbers for vinyl cutter and heat press, e.g.
-  `V1`, `V2` and `H1`, `H2` etc...
+
+## Checklist
+
+### 16:00-17:00
+
+- [ ] Connect all computers
+- [ ] Each Linux computer has Inkscape and Inkcut installed
+- [ ] Each Windows computer has Inkscape installed
+- [ ] Prepare 1 two-seat table per computer
+- [ ] Each table has electricity
+- [ ] Print 5 booklets
+- [ ] Each table has a booklet
+
+### 17:00-17:45
+
+- [ ] Reception desk ready
+- [ ] Reception desk has a registration list
+- [ ] 1 test T-shirt present at heat press
+- [ ] 1 pre-cut vinyl at heat press
+
+
+Duration (mins)|Description
+---------------|-----------------------------------------------
+5              |Introduction
+10             |Learners read the booklet or website
+15             |Demo of all steps
+35             |Do it, always have 1 learner at B and C
+15             |Break
+45             |Do it, always have 1 learner at B and C
+15             |Questions
 
