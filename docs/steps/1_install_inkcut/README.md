@@ -175,6 +175,13 @@ Create a (mandatory!) virtual environment for Inkcut:
 python3 -m venv ~/inkcut_venv
 ```
 
+If you get the error 'The virtual environment was not created successfully',
+try:
+
+```
+sudo apt install python3.12-venv
+```
+
 ???- question "It gives the error 'The virtual environment was not created successfully'"
 
     This is the full errr message:
