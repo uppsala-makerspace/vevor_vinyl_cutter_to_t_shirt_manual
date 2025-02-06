@@ -21,3 +21,5 @@ and/or mention the website
 [https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/).
 
 This guide will always be free (as in beer) and free (as in freedom).
+
+![QR Code of this guide](../../qr_code.png)
