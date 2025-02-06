@@ -33,6 +33,14 @@ nav:
     - Troubleshooting: troubleshooting/README.md
     - Workshop: workshop/README.md
 
+not_in_nav: |
+  misc/foreword/README.md
+  misc/theory_cover/README.md
+  scripts/README.md
+  steps/install_inkcut_notes.md
+  steps/setup_inkcut_notes.md
+  workshop/letter_to_parents.md
+
 theme:
   name: material
   greetings: Welcome to the vinyl cutter to T-shirt manual
