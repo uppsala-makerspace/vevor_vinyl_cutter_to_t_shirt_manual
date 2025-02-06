@@ -10,11 +10,7 @@ tags:
 
 In Inkcut, load an SVG.
 
-???- question "How does that look like?"
-
-    ![Inkcut in action](inkcut_with_ums_logo.png)
-
-    > Fig 9.1. Inkcut in action
+![Inkcut in action](inkcut_with_ums_logo.png)
 
 ## 9.2 Mirror the image
 
@@ -31,11 +27,9 @@ This is especially important for letters.
 
 ## 9.3 (optional) Set up multiple images correctly
 
-???- question "How should this look like?"
+For many copies, do as shown here:
 
-    ![Do many copies like this](inkcut_many.png)
-
-    > Fig 9.3a Do many copies like this: this is not wasteful
+![Do many copies like this](inkcut_many.png)
 
 ???- question "How should this not look like?"
 
