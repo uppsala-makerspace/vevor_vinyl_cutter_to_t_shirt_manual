@@ -171,3 +171,11 @@ Duration (mins)|Description
 45             |Do it, always have 1 learner at B and C
 15             |Questions
 
+
+## Statistics
+
+- Date: February 7 February 2025 18:00-20:00, no registration
+- Number of volunteers: 6 volunteers, of which 2 adult and 4 minors.
+  They were 3 men and 3 women
+- Number of leaners: 12 people, of which 10 adults, 2 minors.
+  There were 5 men and 7 women
