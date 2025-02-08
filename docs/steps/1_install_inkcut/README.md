@@ -15,6 +15,9 @@ Inkcut is a program to send things to cut to the vinyl cutter.
 It works under Linux, Mac and Windows.
 This guide shows how to do this for Linux.
 
+If you could provide these instructions for Mac or Windows,
+please [contribute](../../CONTRIBUTING.md)!
+
 ## 1.1 Start a terminal
 
 On a Linux computer, start a terminal:
