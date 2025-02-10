@@ -18,7 +18,7 @@ In Inkcut, go to the 'Configure device | Connection':
 - Type: Parallel port
 - Port: `printer manufacturer descriptor printer product descriptor (/dev/usb/lp0)`
 
-![](connect_inkcut_via_usb.png)
+![Connect to the vinyl cutter via USB](connect_inkcut_via_usb.png)
 
 ## 8.2 Use the COM port
 

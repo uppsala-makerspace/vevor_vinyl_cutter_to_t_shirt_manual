@@ -181,7 +181,7 @@ python3 -m venv ~/inkcut_venv
 If you get the error 'The virtual environment was not created successfully',
 try:
 
-```
+```bash
 sudo apt install python3.12-venv
 ```
 
