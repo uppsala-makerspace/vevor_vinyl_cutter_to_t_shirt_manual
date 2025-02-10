@@ -175,3 +175,7 @@ fontsize
 io
 Licence
 licence
+Lördagskurserna
+loerdagskurser
+loerdagskurser
+
