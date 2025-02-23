@@ -25,6 +25,7 @@ nav:
   - Misc:
     - Code of conduct: CODE_OF_CONDUCT.md
     - Contributing: CONTRIBUTING.md
+    - Data: data/README.md
     - License: LICENSE.md
     - PDFs: pdfs/README.md
     - SVGs: svgs/README.md
