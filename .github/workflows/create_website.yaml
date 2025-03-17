@@ -5,12 +5,12 @@ on:
     paths:
       - .github/workflows/create_website.yaml
       - 'docs/**'
-      - mkdocs.yaml
+      - mkdocs.yml
   pull_request:
     paths:
       - .github/workflows/create_website.yaml
       - 'docs/**'
-      - mkdocs.yaml
+      - mkdocs.yml
 
 jobs:
   deploy:
