@@ -5,7 +5,7 @@ tags:
   - software
 ---
 
-Take a random UMS computer check if Inkcut is already installed.
+Take a random UMS computer check if Inkcut is already installed..
 
 # 1. Install Inkcut
 
