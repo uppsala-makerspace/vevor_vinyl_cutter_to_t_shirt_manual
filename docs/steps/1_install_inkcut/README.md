@@ -5,6 +5,8 @@ tags:
   - software
 ---
 
+Take a random UMS computer check if Inkcut is already installed.
+
 # 1. Install Inkcut
 
 ???- question "What are the technical reasons behind this setup?"
@@ -14,7 +16,7 @@ tags:
 If you've already installed Inkcut, go to step 3.
 
 Inkcut is a program to send things to cut to the vinyl cutter.
-It works under Linux, Mac and Windows.
+It works under Linux, Mac andn Windows.
 This guide shows how to do this for Linux.
 
 If you could provide these instructions for Mac or Windows,
