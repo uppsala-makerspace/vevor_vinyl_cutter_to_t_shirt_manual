@@ -8,6 +8,7 @@ fontsize: 14pt
 This is a book about using the Vevor cutter at the Uppsala Makerspace.
 
 Some pieces of advice:
+
   Have your material (T-shirt) ready.
   Make sure the right color of vinyl is loaded.
   Have you USB with your .svg file ready.
