@@ -6,10 +6,14 @@ tags:
 ---
 
 # 0. Check if Inkcut is already installed
+
 On a Linux computer, open a terminal window.
 
 Type
+
+```bash
 ~/inkcut_venv/bin/inkcut
+```
 
 If Inkcut starts then it is installed.
 
@@ -22,7 +26,7 @@ Go to step 3.
     See [my notes](../install_inkcut_notes.md) for details.
 
 Inkcut is a program to send things to cut to the vinyl cutter.
-It works under Linux, Mac andn Windows.
+It works under Linux, Mac and Windows.
 This guide shows how to do this for Linux.
 
 If you could provide these instructions for Mac or Windows,
