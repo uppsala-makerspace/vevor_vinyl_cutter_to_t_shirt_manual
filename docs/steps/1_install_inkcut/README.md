@@ -5,7 +5,13 @@ tags:
   - software
 ---
 
-# 0. Take a random UMS computer check if Inkcut is already installed
+# 0. Check if Inkcut is already installed
+On a Linux computer, open a terminal window.
+
+Type
+~/inkcut_venv/bin/inkcut
+
+If Inkcut starts then it is installed.
 
 Go to step 3.
 
