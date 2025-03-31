@@ -93,11 +93,17 @@ cd "${build_folder}" || exit 41
 # Code has highlights following the tango color scheme
 # Thinner margin of 0.5 inch
 # Do not cut code blocks
+echo "Creating book without cover"
 pandoc README.md -o theory_book_without_cover.pdf --toc --toc-depth=1 --highlight-style=guide_style.theme -V geometry:margin=0.5in
 
+echo "Copying book without cover to PDFs folder"
 cp theory_book_without_cover.pdf ../../pdfs/theory_book_without_cover.pdf
 
 cd ../../pdfs || exit 42
+
+echo "These are the PDFs in the 'pdfs' folder:"
+ls
+
 #
 # We are in the 'pdfs' folder
 #
