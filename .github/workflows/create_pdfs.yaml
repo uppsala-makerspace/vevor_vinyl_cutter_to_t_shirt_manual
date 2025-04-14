@@ -31,7 +31,7 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v2
 
       - name: Install pdflatex
-        run: sudo apt-get install texlive-latex-base texlive-latex-recommended
+        run: sudo apt-get install texlive-latex-base texlive-latex-recommended texlive-latex-extra
 
       - name: Create covers
         run: |
