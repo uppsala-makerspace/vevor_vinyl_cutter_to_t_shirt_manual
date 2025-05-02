@@ -7,6 +7,7 @@ nav:
   - Home: index.md
   - Steps:
     - Procedure overview: steps/procedure.md
+    - 0. Check if Inkcut is already installed: steps/0_check.md
     - 1. Install Inkcut: steps/1_install_inkcut/README.md
     - 2. Set up Inkcut: steps/2_setup_inkcut.md
     - 3. Get t-shirts: steps/3_get_t_shirts.md
