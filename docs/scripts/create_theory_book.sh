@@ -33,7 +33,8 @@ cat ../misc/foreword/README.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
-cat ../0_check.md >> $build_folder/README.md
+
+cat ../steps/0_check.md >> $build_folder/README.md
 
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
