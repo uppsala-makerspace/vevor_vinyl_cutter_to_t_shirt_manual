@@ -10,6 +10,8 @@ tags:
 Place the foil on the vinyl cutter, with the white side up,
 i.e. with the thick and transparent plastic at the bottom.
 
+Only use two of the three rollers. If you use three rollers, you will get distorted images.
+
 View     |Before cutting                                   |After cutting
 ---------|-------------------------------------------------|--------------------------------------------------------------
 Slice    |![Slice before](foil_schematic_slice.png)        |![Slice after](foil_schematic_slice_after_cutting.png)
