@@ -23,6 +23,7 @@ fi
 cp ../steps/*.* $build_folder
 cp ../steps/1_install_inkcut/*.* $build_folder
 cp ../misc/foreword/*.* $build_folder
+cp ../troubleshooting/*.* $build_folder
 
 # Newline between TOC and foreword
 echo " " > $build_folder/README.md # Start from scratch
@@ -83,6 +84,10 @@ cat ../steps/11_peel_vinyl.md >> $build_folder/README.md
 echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
 
 cat ../steps/12_transfer_vinyl_to_t_shirt.md >> $build_folder/README.md
+
+echo " " >> $build_folder/README.md; echo "\pagebreak" >> $build_folder/README.md; echo " " >> $build_folder/README.md
+
+cat ../troubleshooting/README.md >> $build_folder/README.md
 
 Rscript -e 'mkdocs2md::convert_file_to_markdown("build/README.md", "build/README.md", keep_tags = FALSE)'
 

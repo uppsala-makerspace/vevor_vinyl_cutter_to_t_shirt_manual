@@ -12,7 +12,7 @@ tags:
 
 > The vinyl cutter is wrinkling the paper.
 
-This happens when at least one wheel of the three movable heads is
+This happens when at least one wheel of the two movable heads is
 not on a roller at the bottom:
 
 ![The right wheel is not on the roller](wheel_not_on_roller_annotated.png)
