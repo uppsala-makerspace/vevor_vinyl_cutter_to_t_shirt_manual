@@ -12,6 +12,11 @@ with the colorful side up:
 
 ![Vinyl to be transferred to T-shirt](before_press.png)
 
+Consider using a Primadocka to help place the foil on the
+right spot of a T-shirt:
+
+![A Primadocka](primadocka.jpg)
+
 Confirm the heat press is warmed up: it's temperature
 should match the desired temperature.
 
