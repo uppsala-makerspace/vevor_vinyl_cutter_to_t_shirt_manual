@@ -15,9 +15,9 @@ Some pieces of advice:
 
 ## About this book
 
-This book has a CC-BY-NC-SA licence.
+This book has a CC-BY-SA licence.
 
-![Licence for this book](CC-BY-NC-SA.png)
+![Licence for this book](CC-BY-SA.png)
 
 (C) Richèl Bilderbeek and all contributors
 
