@@ -10,10 +10,10 @@ Get one or more T-shirts.
 
 <!-- markdownlint-disable MD013 --><!-- Some unavoidable long lines -->
 
-Company                               |Address                                                                                     |Price|Description
--------------|------------------|-----|------------------
-[Lager 157](https://www.lager157.com) |[Kungsgatan 95](https://www.openstreetmap.org/way/155287836)                                |  30 |Has S, M, L and XL
-[New Yorker](https://www.newyorker.de)|[Marknadsgatan 1](https://www.openstreetmap.org/node/12196861434#map=19/59.875975/17.674263)|  79 |?All sizes
+Company                                                      |Address                                                                                     |Price|Description
+-------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----|------------------
+[Biltema](https://www.biltema.se/bygg/arbetsklader/t-shirts/)|Online                                                                                      |  60 |Has S to XXXL
+[New Yorker](https://www.newyorker.de)                       |[Marknadsgatan 1](https://www.openstreetmap.org/node/12196861434#map=19/59.875975/17.674263)|  79 |Has XS to XL
 
 <!-- markdownlint-enable MD013 -->
 
