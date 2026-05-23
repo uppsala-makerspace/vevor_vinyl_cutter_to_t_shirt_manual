@@ -6,6 +6,21 @@ tags:
 
 # Troubleshooting
 
+## The vinyl cutter is hammering
+
+No idea why this happens.
+
+My leading idea is that 'something is getting too warm after a lot
+of printing'.
+
+Reasons that are not a cause:
+
+- Type of connection (i.e. COM versus USB)
+- Printer memory full (i.e. turning the printer
+  off and on does not fix the problem)
+- Computer memory full (i.e. turning the connected computer
+  off and on does not fix the problem)
+
 ## The vinyl cutter is wrinkling the paper
 
 ![The vinyl cutter is wrinkling the paper](wheel_not_on_roller.jpg)
