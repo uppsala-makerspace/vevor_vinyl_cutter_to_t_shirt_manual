@@ -1,7 +1,9 @@
 
 # 3. Get T-shirts
 
-Get one or more T-shirts.
+In this step of
+[this vinyl cutter to T-shirt manual](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/),
+we get one or more T-shirts.
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 

@@ -1,6 +1,10 @@
 
 # 9. Use Inkcut
 
+In this step of
+[this vinyl cutter to T-shirt manual](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/),
+we use Inkcut to make the vinyl cutter cut out a design in our vinyl foil.
+
 ## 9.1 Load an SVG
 
 In Inkcut, load an SVG.

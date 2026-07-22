@@ -6,7 +6,9 @@ tags:
 
 # 4. Get vinyl
 
-Get suitable vinyl
+In this step of
+[Vinyl cutter to T-shirt manual](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/),
+we get suitable vinyl foil.
 
 Suitable foil looks like this:
 

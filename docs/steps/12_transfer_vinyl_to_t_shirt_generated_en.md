@@ -1,6 +1,10 @@
 
 # 12. Transfer vinyl to T-shirt
 
+In this step of
+[Vinyl cutter to T-shirt manual](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/),
+we transfer our vinyl to our T-shirt.
+
 Put the remainder of the foil on the T-shirt,
 with the colorful side up:
 

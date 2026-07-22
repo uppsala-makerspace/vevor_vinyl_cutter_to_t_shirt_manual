@@ -1,5 +1,9 @@
 # How to create an SVG for Inkcut
 
+In this part of
+[the vinyl cutter to T-shirt manual](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/),
+we give some guidelines on how to create an SVG for Inkcut.
+
 There are many ways images are saved to a file.
 Inkcut can only load SVGs.
 

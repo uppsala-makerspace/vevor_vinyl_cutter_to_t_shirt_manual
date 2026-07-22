@@ -1,5 +1,10 @@
 # Use text
 
+In this part of
+[the vinyl cutter to T-shirt manual](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/),
+we give some guidelines on how to use text in an SVG that is suitable
+for Inkcut.
+
 One can use Inkscape to create SVGs.
 It is easy to add text in Inkscape.
 However, text will not show up in Inkcut!
