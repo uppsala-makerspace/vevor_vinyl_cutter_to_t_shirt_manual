@@ -31,6 +31,17 @@ echo "========================================================================"
 echo "= Steps"
 echo "========================================================================"
 
+echo "------------------------------------------------------------------------"
+echo "- Steps: 0_check"
+echo "------------------------------------------------------------------------" 
+local_folder_rel_path="docs/steps"
+local_folder_input_file="${local_folder_rel_path}/0_check.md"
+local_folder_prefix_output_file="${local_folder_rel_path}/0_check_generated"
+mkdocs_page_url="${mkdocs_home_url}/steps/0_check" # The page to link to; the rendered version of the source page
+generated_en="${local_folder_prefix_output_file}_en.md"
+cp ${local_folder_input_file} ${generated_en}
+sed -i '/^---$/,/^---$/d' ${generated_en}
+
 
 echo "------------------------------------------------------------------------"
 echo "- Steps: 1. Install Inkcut"
@@ -177,7 +188,7 @@ echo "- Steps: create_svg"
 echo "------------------------------------------------------------------------" 
 local_folder_rel_path="docs/steps/create_svg"
 local_folder_input_file="${local_folder_rel_path}/README.md"
-local_folder_prefix_output_file="${local_folder_rel_path}/create_svg_generated"
+local_folder_prefix_output_file="${local_folder_rel_path}/generated"
 mkdocs_page_url="${mkdocs_home_url}/steps/create_svg" # The page to link to; the rendered version of the source page
 generated_en="${local_folder_prefix_output_file}_en.md"
 cp ${local_folder_input_file} ${generated_en}
