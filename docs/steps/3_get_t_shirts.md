@@ -8,7 +8,7 @@ tags:
 
 Get one or more T-shirts.
 
-<!-- markdownlint-disable MD013 --><!-- Some unavoidable long lines -->
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Company                                                      |Address                                                                                     |Price|Description
 -------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----|------------------

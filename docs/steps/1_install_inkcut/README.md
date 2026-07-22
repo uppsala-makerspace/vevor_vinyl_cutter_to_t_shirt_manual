@@ -11,6 +11,10 @@ tags:
 
     See [my notes](../install_inkcut_notes.md) for details.
 
+If you cannot use the Inkcut laptop that is usually
+in the vinyl cutter, you will need to Inkcut
+on the computer you use.
+
 Inkcut is a program to send things to cut to the vinyl cutter.
 It works under Linux, Mac and Windows.
 This guide shows how to do this for Linux.

@@ -17,5 +17,3 @@ Type
 ```
 
 If Inkcut starts then it is installed.
-
-Go to step 3.

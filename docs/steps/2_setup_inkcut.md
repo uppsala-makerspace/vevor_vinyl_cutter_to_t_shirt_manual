@@ -11,6 +11,9 @@ tags:
 
     See [Setup Inkcut notes](setup_inkcut_notes.md) for the notes behind this
 
+After install Inkcut, you will need to set up Inkcut,
+so that it can talk to the vinyl cutter. 
+
 ## 2.1 Start a terminal
 
 On a Linux computer, start a terminal.
