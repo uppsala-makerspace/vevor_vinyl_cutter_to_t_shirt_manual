@@ -1,0 +1,15 @@
+
+# 3. Get T-shirts
+
+Get one or more T-shirts.
+
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
+Company                                                      |Address                                                                                     |Price|Description
+-------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----|------------------
+[Biltema](https://www.biltema.se/bygg/arbetsklader/t-shirts/)|Online                                                                                      |  60 |Has S to XXXL
+[New Yorker](https://www.newyorker.de)                       |[Marknadsgatan 1](https://www.openstreetmap.org/node/12196861434#map=19/59.875975/17.674263)|  79 |Has XS to XL
+
+<!-- markdownlint-enable MD013 -->
+
+- Price is in kroner per (cheapest) T-shirt
