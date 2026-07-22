@@ -1,9 +1,9 @@
 
 # 2. Setup Inkcut
 
-???- question "What are the technical reasons behind this setup?"
 
-    See [Setup Inkcut notes](setup_inkcut_notes.md) for the notes behind this
+
+
 
 After install Inkcut, you will need to set up Inkcut,
 so that it can talk to the vinyl cutter. 
@@ -24,8 +24,8 @@ sudo usermod -a -G dialout "$USER"
 
 Reboot the computer.
 
-???- question "Can I just log out and log in?"
 
-    No.
 
-    This does not work.
+
+
+

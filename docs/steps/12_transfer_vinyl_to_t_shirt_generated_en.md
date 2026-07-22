@@ -14,13 +14,13 @@ right spot of a T-shirt:
 Confirm the heat press is warmed up: it's temperature
 should match the desired temperature.
 
-???- question "How to determine if the press is warmed up?"
 
-    ![Press not yet ready](press_not_yet_ready.jpg)
 
-    > Press not yet ready. It should say `T=160/160C`.
-    > A temperature from
-    > 155 to 165 degrees Celcius would also be fine.
+
+
+
+
+
 
 Place the T-shirt under the press,
 with the foil still at the desired location on the t-shirt.
@@ -37,6 +37,6 @@ Peel off the transparent layer from the shirt:
 
 Done!
 
-???- question "How does this look like?"
 
-    ![T-shirts that are done](t_shirts_done.jpg)
+
+

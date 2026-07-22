@@ -61,6 +61,7 @@ sed -i '/^---$/,/^---$/d' ${generated_en}
 #Rscript scripts/replace_rel_url_by_abs_url.R ${generated_sv} ${mkdocs_page_url} || exit 42
 #sed -i 's/^# .*$/# Saturday courses overview/g' ${generated_en}
 #sed -i 's/^# .*$/# Kurser hos Lördagskurser/g' ${generated_sv}
+Rscript -e "mkdocs2md::convert_file_to_markdown(\"${generated_en}\", \"${generated_en}\", keep_tags = FALSE)"
 
 echo "------------------------------------------------------------------------"
 echo "- Steps: 2. Install Inkcut"
@@ -72,6 +73,7 @@ mkdocs_page_url="${mkdocs_home_url}/steps/2_setup_inkcut" # The page to link to;
 generated_en="${local_folder_prefix_output_file}_en.md"
 cp ${local_folder_input_file} ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_en}
+Rscript -e "mkdocs2md::convert_file_to_markdown(\"${generated_en}\", \"${generated_en}\", keep_tags = FALSE)"
 
 echo "------------------------------------------------------------------------"
 echo "- Steps: 3_get_t_shirts"
@@ -83,6 +85,7 @@ mkdocs_page_url="${mkdocs_home_url}/steps/3_get_t_shirts" # The page to link to;
 generated_en="${local_folder_prefix_output_file}_en.md"
 cp ${local_folder_input_file} ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_en}
+Rscript -e "mkdocs2md::convert_file_to_markdown(\"${generated_en}\", \"${generated_en}\", keep_tags = FALSE)"
 
 echo "------------------------------------------------------------------------"
 echo "- Steps: 4_get_vinyl"
@@ -94,6 +97,7 @@ mkdocs_page_url="${mkdocs_home_url}/steps/4_get_vinyl" # The page to link to; th
 generated_en="${local_folder_prefix_output_file}_en.md"
 cp ${local_folder_input_file} ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_en}
+Rscript -e "mkdocs2md::convert_file_to_markdown(\"${generated_en}\", \"${generated_en}\", keep_tags = FALSE)"
 
 echo "------------------------------------------------------------------------"
 echo "- Steps: 5_connect_vinyl_cutter"
@@ -105,6 +109,7 @@ mkdocs_page_url="${mkdocs_home_url}/steps/5_connect_vinyl_cutter" # The page to 
 generated_en="${local_folder_prefix_output_file}_en.md"
 cp ${local_folder_input_file} ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_en}
+Rscript -e "mkdocs2md::convert_file_to_markdown(\"${generated_en}\", \"${generated_en}\", keep_tags = FALSE)"
 
 echo "------------------------------------------------------------------------"
 echo "- Steps: 6_setup_vinyl_cutter"
@@ -116,6 +121,7 @@ mkdocs_page_url="${mkdocs_home_url}/steps/6_setup_vinyl_cutter" # The page to li
 generated_en="${local_folder_prefix_output_file}_en.md"
 cp ${local_folder_input_file} ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_en}
+Rscript -e "mkdocs2md::convert_file_to_markdown(\"${generated_en}\", \"${generated_en}\", keep_tags = FALSE)"
 
 echo "------------------------------------------------------------------------"
 echo "- Steps: 7_place_foil"
@@ -127,6 +133,7 @@ mkdocs_page_url="${mkdocs_home_url}/steps/7_place_foil" # The page to link to; t
 generated_en="${local_folder_prefix_output_file}_en.md"
 cp ${local_folder_input_file} ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_en}
+Rscript -e "mkdocs2md::convert_file_to_markdown(\"${generated_en}\", \"${generated_en}\", keep_tags = FALSE)"
 
 echo "------------------------------------------------------------------------"
 echo "- Steps: 8_setup_inkcut_connection"
@@ -138,6 +145,7 @@ mkdocs_page_url="${mkdocs_home_url}/steps/8_setup_inkcut_connection" # The page 
 generated_en="${local_folder_prefix_output_file}_en.md"
 cp ${local_folder_input_file} ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_en}
+Rscript -e "mkdocs2md::convert_file_to_markdown(\"${generated_en}\", \"${generated_en}\", keep_tags = FALSE)"
 
 echo "------------------------------------------------------------------------"
 echo "- Steps: 9_use_inkcut"
@@ -149,6 +157,7 @@ mkdocs_page_url="${mkdocs_home_url}/steps/9_use_inkcut" # The page to link to; t
 generated_en="${local_folder_prefix_output_file}_en.md"
 cp ${local_folder_input_file} ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_en}
+Rscript -e "mkdocs2md::convert_file_to_markdown(\"${generated_en}\", \"${generated_en}\", keep_tags = FALSE)"
 
 echo "------------------------------------------------------------------------"
 echo "- Steps: 10_setup_heat_press"
@@ -160,6 +169,7 @@ mkdocs_page_url="${mkdocs_home_url}/steps/10_setup_heat_press" # The page to lin
 generated_en="${local_folder_prefix_output_file}_en.md"
 cp ${local_folder_input_file} ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_en}
+Rscript -e "mkdocs2md::convert_file_to_markdown(\"${generated_en}\", \"${generated_en}\", keep_tags = FALSE)"
 
 echo "------------------------------------------------------------------------"
 echo "- Steps: 11_peel_vinyl"
@@ -171,6 +181,7 @@ mkdocs_page_url="${mkdocs_home_url}/steps/11_peel_vinyl" # The page to link to; 
 generated_en="${local_folder_prefix_output_file}_en.md"
 cp ${local_folder_input_file} ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_en}
+Rscript -e "mkdocs2md::convert_file_to_markdown(\"${generated_en}\", \"${generated_en}\", keep_tags = FALSE)"
 
 echo "------------------------------------------------------------------------"
 echo "- Steps: 12_transfer_vinyl_to_t_shirt"
@@ -182,6 +193,7 @@ mkdocs_page_url="${mkdocs_home_url}/steps/12_transfer_vinyl_to_t_shirt" # The pa
 generated_en="${local_folder_prefix_output_file}_en.md"
 cp ${local_folder_input_file} ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_en}
+Rscript -e "mkdocs2md::convert_file_to_markdown(\"${generated_en}\", \"${generated_en}\", keep_tags = FALSE)"
 
 echo "------------------------------------------------------------------------"
 echo "- Steps: create_svg"
@@ -193,6 +205,7 @@ mkdocs_page_url="${mkdocs_home_url}/steps/create_svg" # The page to link to; the
 generated_en="${local_folder_prefix_output_file}_en.md"
 cp ${local_folder_input_file} ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_en}
+Rscript -e "mkdocs2md::convert_file_to_markdown(\"${generated_en}\", \"${generated_en}\", keep_tags = FALSE)"
 
 echo "------------------------------------------------------------------------"
 echo "- Procedure"
@@ -204,3 +217,4 @@ mkdocs_page_url="${mkdocs_home_url}/steps/procedure" # The page to link to; the 
 generated_en="${local_folder_prefix_output_file}_en.md"
 cp ${local_folder_input_file} ${generated_en}
 sed -i '/^---$/,/^---$/d' ${generated_en}
+Rscript -e "mkdocs2md::convert_file_to_markdown(\"${generated_en}\", \"${generated_en}\", keep_tags = FALSE)"
