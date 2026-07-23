@@ -9,10 +9,10 @@ For this procedure, these are the machines and materials needed:
 
 Machine/material |Picture
 -----------------|--------------------------------------------------------------------
-Laptop with Linux|`TODO: picture of the Inkcut laptop`
+Laptop with Linux|![Our laptop](laptop.jpg)
 Vinyl cutter     |![Our Vevor vinyl cutter from an isometric perspective](../vevor_vinyl_cutter_isometric.jpg)
 Heat press       |![Press not yet ready](press_not_yet_ready.jpg)
-T-shirt          |`TODO: picture of a T-shirt here`
+T-shirt          |![T shirt](t_shirt.jpg)
 Vinyl            |![Vinyl](transfer_some_ready.jpg)
 
 Below is an overview of the procedure
