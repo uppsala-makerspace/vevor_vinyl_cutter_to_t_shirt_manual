@@ -6,9 +6,6 @@ In this step of
 we install Inkcut.
 
 
-
-
-
 If you cannot use the Inkcut laptop that is usually
 in the vinyl cutter, you will need to Inkcut
 on the computer you use.
@@ -25,27 +22,14 @@ please [contribute](../../CONTRIBUTING.md)!
 On a Linux computer, start a terminal:
 
 
-
-
-
 - Press the Meta/Windows key (between Ctrl and Alt at the bottom
   left of the keyboard)
-
-
-
 
 
 - Type `terminal`
 
 
-
-
-
 Now you have started a terminal
-
-
-
-
 
 
 ## 1.2 Install the Debian packages
@@ -57,33 +41,7 @@ sudo apt-get install python3-pip python3-pyqt5 python3-setuptools
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Probably you will need to type a password and press enter.
-
-
-
-
-
-
-
-
-
-
-
 
 
 You will probably be asked if you want to install these programs.
@@ -92,44 +50,7 @@ Type 'Y' and press enter.
 You will see a lot of programs being installed.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Well done!
-
-
-
 
 
 Now repeat with this command:
@@ -137,39 +58,6 @@ Now repeat with this command:
 ```bash
 sudo apt-get install libcups2-dev python3-pyqt5.qtsvg
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## 1.3 Create a virtual environment for Inkcut
@@ -188,67 +76,6 @@ sudo apt install python3.12-venv
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 1.4 Install Python packages in the virtual environment
 
 Install the Inkcut and PyQt5 Python packages in the virtual environment"
@@ -258,238 +85,6 @@ Install the Inkcut and PyQt5 Python packages in the virtual environment"
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 1.5 Start Inkcut
 
 Now you can start `inkcut` with:
@@ -497,38 +92,6 @@ Now you can start `inkcut` with:
 ```bash
 ~/inkcut_venv/bin/inkcut 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Inkcut is now started. Well done!

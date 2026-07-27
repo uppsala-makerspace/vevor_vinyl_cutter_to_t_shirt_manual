@@ -13,20 +13,11 @@ here is how to connect Inkcut to the vinyl cutter.
 On a Linux computer, start a terminal:
 
 
-
-
-
 - Press the Meta/Windows key (between Ctrl and Alt at the bottom
   left of the keyboard)
 
 
-
-
-
 - Type `terminal`
-
-
-
 
 
 Now you have started a terminal
@@ -58,13 +49,6 @@ the **COM port**, then, in Inkcut, go to the 'Configure device | Connection':
 - Port: `ttyUSB0`. If you cannot select `ttyUSB0`, you've used the wrong USB cable
   coming out of the vinyl cutter :-)
 - Baudrate: 38400
-
-
-
-
-
-
-
 
 
 ![Use the serial port with a baudrate of 38400](set_baudrate_to_38400.png)

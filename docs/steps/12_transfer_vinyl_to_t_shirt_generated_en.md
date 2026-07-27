@@ -19,13 +19,6 @@ Confirm the heat press is warmed up: it's temperature
 should match the desired temperature.
 
 
-
-
-
-
-
-
-
 Place the T-shirt under the press,
 with the foil still at the desired location on the t-shirt.
 
@@ -40,7 +33,4 @@ Peel off the transparent layer from the shirt:
 ![Vinyl transferred to T-shirt](after_press_enhanced.png)
 
 Done!
-
-
-
 

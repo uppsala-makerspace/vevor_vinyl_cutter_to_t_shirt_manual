@@ -8,40 +8,8 @@ There are many ways images are saved to a file.
 Inkcut can only load SVGs.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 One cannot simply upload a 'regular' image (such as PNG or JPG)
 to Inkcut: these must be converted to an SVG first.
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Converting a 'regular' image (such as PNG or JPG) to SVG
@@ -56,60 +24,23 @@ To import a 'regular' image (such as PNG or JPG),
 click 'File | Import'
 
 
-
-
-
-
-
 Select a file to import.
 
 
-
-
-
-
-
 In the import settings, click OK
-
-
-
-
-
 
 
 You have now imported the 'regular' image
 in Inkscape.
 
 
-
-
-
-
-
 Now you can save the image as an SVG. Do so, by clicking 'File | Save as'.
-
-
-
-
-
 
 
 Give your SVG a name and save it.
 
 
-
-
-
-
-
 What you don't know yet: this SVG cannot be loaded in Inkcut.
-
-
-
-
-
-
-
 
 
 ## Fixing an SVG
@@ -117,34 +48,14 @@ What you don't know yet: this SVG cannot be loaded in Inkcut.
 In Inkscape, click 'Path | Trace Bitmap'.
 
 
-
-
-
-
-
 Click on 'Apply'.
-
-
-
-
-
 
 
 The image *looks* the same, but is not.
 
 
-
-
-
-
-
 However, you can save the image as SVG
 and load it into Inkcut successfully!
-
-
-
-
-
 
 
 ## Videos

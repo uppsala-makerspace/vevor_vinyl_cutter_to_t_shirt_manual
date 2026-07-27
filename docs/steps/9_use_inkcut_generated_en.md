@@ -18,22 +18,11 @@ the image horizontally.
 This is especially important for letters.
 
 
-
-
-
-
-
-
 ## 9.3 (optional) Set up multiple images correctly
 
 For many copies, do as shown here:
 
 ![Do many copies like this](inkcut_many.png)
-
-
-
-
-
 
 
 ## 9.4 Start the cut
