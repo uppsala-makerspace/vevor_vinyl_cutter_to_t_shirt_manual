@@ -5,4 +5,4 @@
 Manual for using the Vevor vinyl cutter to create a T-shirt.
 
 - [Internet-friendly](steps/procedure.md)
-- [Printer-friendly](pdf/README.md) (i.e. the PDFs of this manual)
+- [Printer-friendly](pdfs/README.md) (i.e. the PDFs of this manual)
