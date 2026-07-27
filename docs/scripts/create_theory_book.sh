@@ -3,6 +3,7 @@
 #
 # Usage:
 #
+# cd docs/scripts
 # ./create_book_1.sh
 #
 
