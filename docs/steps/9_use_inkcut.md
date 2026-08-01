@@ -48,3 +48,19 @@ Click on 'Device | Send to device' to start the vinyl cutter.
 ![Click on 'Device | Send to device' to start the vinyl cutter](inkcut_send_to_device.png)
 
 > Click on 'Device | Send to device' to start the vinyl cutter
+
+## 9.5. Common errors
+
+### 9.5.1. `Permssion denied: `/dev/usb/lp0`
+
+???- question "How does the full error look like?"
+
+    ![`Permssion denied: `/dev/usb/lp0`](permission_denied_lp0.png)
+
+In a terminal, type the line below and print again.
+
+```terminal
+sudo chmod +777 /dev/usb/lp0
+```
+
+This error will show up every print.
