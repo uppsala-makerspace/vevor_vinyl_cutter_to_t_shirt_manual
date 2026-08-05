@@ -1,5 +1,7 @@
 # vevor_vinyl_cutter_to_t_shirt_manual
 
+[![DOI](https://zenodo.org/badge/846631753.svg)](https://doi.org/10.5281/zenodo.21810312)
+
 ![Our Vevor vinyl cutter from an isometric perspective](docs/vevor_vinyl_cutter_isometric.jpg)
 
 Manual for using the Vevor vinyl cutter to create a T-shirt:
