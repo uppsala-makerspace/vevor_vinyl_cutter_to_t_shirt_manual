@@ -2,7 +2,7 @@
 # 8. Set up Inkcut connection
 
 In this step of
-[this vinyl cutter to T-shirt manual](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/),
+[this vinyl cutter to T-shirt manual](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/),
 we setup an Inkcut connection, from our laptop to the vinyl cutter.
 
 Depending on how you've connected the vinyl cutter,

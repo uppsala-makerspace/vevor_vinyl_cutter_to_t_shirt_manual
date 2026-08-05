@@ -2,7 +2,7 @@
 # 5. Connect the vinyl cutter
 
 In this step of
-[this vinyl cutter to T-shirt manual](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/),
+[this vinyl cutter to T-shirt manual](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/),
 we physically connect our laptop to the vinyl cutter.
 
 There are two ways to connect the vinyl cutter to a computer.

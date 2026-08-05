@@ -8,7 +8,7 @@ tags:
 # 7. Place foil on the vinyl cutter
 
 In this step of
-[this vinyl cutter to T-shirt manual](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/),
+[this vinyl cutter to T-shirt manual](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/),
 we place our vinyl foil on the vinyl cutter.
 
 Place the foil on the vinyl cutter, with the white side up,

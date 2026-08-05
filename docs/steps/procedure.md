@@ -7,7 +7,7 @@ tags:
 # Procedure
 
 In this page of
-[the vinyl cutter to T-shirt manual](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/),
+[the vinyl cutter to T-shirt manual](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/),
 we give an overvire of all machines needed, as well as the procedure.
 
 For this procedure, these are the machines and materials needed:

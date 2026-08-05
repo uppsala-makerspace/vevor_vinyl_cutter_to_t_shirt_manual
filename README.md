@@ -4,11 +4,11 @@
 
 Manual for using the Vevor vinyl cutter to create a T-shirt:
 
-- [Website friendly](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
+- [Website friendly](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/)
 - [Printer friendly](docs/pdfs/guide.pdf) (PDF)
 - [Superguide](docs/pdfs/super_guide.pdf) (PDF): also contains the vinyl cutter manual and a vinyl manual
 
-[Contributions are welcome](https://uppsala-makerspace.github.io/vevor_vinyl_cutter_to_t_shirt_manual/CONTRIBUTING/)!
+[Contributions are welcome](https://richelbilderbeek.github.io/vevor_vinyl_cutter_to_t_shirt_manual/CONTRIBUTING/)!
 
 ## Files used by continuous integration scripts
 

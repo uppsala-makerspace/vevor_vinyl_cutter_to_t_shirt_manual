@@ -7,7 +7,7 @@ tags:
 
 # Need help with the vinyl cutter?
 
-See <https://github.com/uppsala-makerspace/vevor_vinyl_cutter_to_t_shirt_manual>
+See <https://github.com/richelbilderbeek/vevor_vinyl_cutter_to_t_shirt_manual>
 
 Or use this QR code:
 

@@ -12,7 +12,7 @@ vinyl cutter to create a T-shirt.
 Suggestions are welcomed that help achieve this goal,
 with a preference to accept suggestions.
 
-- For questions, you can [create an issue](https://github.com/uppsala-makerspace/vevor_vinyl_cutter_to_t_shirt_manual/issues)
+- For questions, you can [create an issue](https://github.com/richelbilderbeek/vevor_vinyl_cutter_to_t_shirt_manual/issues)
 - Textual changes go via pull requests.
   Whatever these are, these are created when clicking the 'Edit page' icon
   located at the top-right of each page.
